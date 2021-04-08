@@ -1,0 +1,1904 @@
+ID,University_Rating,University_Name,GRE,TOEFL,CGPA,Work_Ex,Chances Of Admit
+0,3,Arizona State University,314,106,7.63,6,87
+1,3,Arizona State University,307,109,5.7,1,73
+2,3,Arizona State University,290,106,7,48,68
+3,3,Arizona State University,306,90,8.2,24,84
+4,3,Arizona State University,310,100,8.96,2,85
+5,3,Arizona State University,309,88,7.69,16,80
+6,3,Arizona State University,310,103,7.5,29,80
+7,3,Arizona State University,301,86,6.023,26,60
+8,3,Arizona State University,305,89,8.86,17,70
+9,3,Arizona State University,312,115,6.8,33,82
+10,3,Arizona State University,322,110,7.6,0,90
+11,3,Arizona State University,319,100,6.74,28,83
+12,3,Arizona State University,305,88,5.27,0,60
+13,3,Arizona State University,307,87,6.5,27,65
+14,3,Arizona State University,306,92,6.6,36,67
+15,3,Arizona State University,320,100,6.3,0,80
+16,3,Arizona State University,315,104,7.2,3,88
+17,3,Arizona State University,301,88,7.512,60,70
+18,3,Arizona State University,311,98,7.74,25,81
+19,3,Arizona State University,312,110,8.6,24,86.5
+20,3,Arizona State University,307,103,8,34,86.5
+21,3,Arizona State University,321,102,7.5,12,91
+22,3,Arizona State University,306,99,6.9,0,64
+23,3,Arizona State University,310,110,7.49,0,80.5
+24,3,Arizona State University,310,101,6.1,22,78.5
+25,3,Arizona State University,306,103,5.817,27,72.25
+26,3,Arizona State University,305,91,5.9,15,60
+27,3,Arizona State University,299,88,7.8,30,60
+28,3,Arizona State University,314,91,7.93,16,74.5
+29,3,Arizona State University,305,106,8.2,31,86.5
+30,3,Arizona State University,318,111,6.68,6,85
+31,3,Arizona State University,307,88,6.9,15,60
+32,3,Arizona State University,308,84,6.35,43,60
+33,3,Arizona State University,301,91,6.3,21,60
+34,3,Arizona State University,298,88,5.243,6,60
+35,3,Arizona State University,310,96,6.368,41,86.5
+36,3,Arizona State University,312,105,7.55,27,86.5
+37,3,Arizona State University,301,88,8.6,55,65
+38,3,Arizona State University,303,90,6.2,14,60
+39,3,Arizona State University,308,84,6.394,43,60
+40,3,Arizona State University,305,98,4.863,18,60
+41,3,Arizona State University,308,102,7.09,0,82.25
+42,3,Arizona State University,302,98,8.4,41,69
+43,3,Arizona State University,309,88,6.03,28,60
+44,3,Arizona State University,303,89,6,15,60
+45,3,Arizona State University,316,107,7.16,6,87
+46,3,Arizona State University,302,92,6.61,35,60
+47,3,Arizona State University,311,101,7.72,18,86.5
+48,3,Arizona State University,308,86,8.1,14,61
+49,3,Arizona State University,299,97,5.4,12,60
+50,3,Arizona State University,310,100,8.98,35,88
+51,3,Arizona State University,320,86,7.77,9,86.5
+52,3,Arizona State University,306,102,6,26,78.5
+53,3,Arizona State University,315,112,8.3,12,93
+54,4,Boston University,313,101,6.8,30,84.5
+55,4,Boston University,305,91,5.93,0,74
+56,4,Boston University,336,107,6,30,90
+57,4,Boston University,325,99,5,0,84.35
+58,4,Boston University,305,103,7.6,0,76
+59,4,Boston University,307,80,7.6,0,70
+60,4,Boston University,299,106,7.3,0,66
+61,4,Boston University,313,101,6.864,0,70
+62,4,Boston University,301,98,6.35,10,64
+63,4,Boston University,296,90,5.67,8,62.5
+64,4,Boston University,316,106,6.75,5,85.5
+65,4,Boston University,310,112,6.73,22,86
+66,4,Boston University,310,97,5.1,82,83.25
+67,4,Boston University,300,97,6.085,6,64
+68,4,Boston University,315,99,6.842,26,86.5
+69,4,Boston University,298,88,4.8,20,57.5
+70,4,Boston University,309,108,7.5,10,80
+71,4,Boston University,310,92,5.5,0,70
+72,4,Boston University,303,103,9,2,86.25
+73,4,Boston University,302,100,6.6,0,80
+74,4,Boston University,308,100,6.47,38,84.75
+75,4,Boston University,287,87,8.8,18,55
+76,4,Boston University,310,110,7.49,0,87.5
+77,4,Boston University,296,100,6.2,41,60
+78,4,Boston University,306,98,6.698,48,65
+79,4,Boston University,297,84,7.3,44,63
+80,4,Boston University,290,91,7.3,48,62
+81,5,Carnegie Mellon University,312,110,9.09,16,80.75
+82,5,Carnegie Mellon University,311,102,6.9,85,76
+83,5,Carnegie Mellon University,320,104,6,60,76
+84,5,Carnegie Mellon University,307,103,8,34,80.25
+85,5,Carnegie Mellon University,324,113,7.304,5,83.25
+86,5,Carnegie Mellon University,300,103,9,30,80.75
+87,5,Carnegie Mellon University,324,110,5.858,16,70
+88,5,Carnegie Mellon University,319,111,9.6,6,80.75
+89,5,Carnegie Mellon University,318,106,6.7,60,76
+90,5,Carnegie Mellon University,325,109,5.865,17,70
+91,5,Carnegie Mellon University,315,101,9.81,0,80.75
+92,5,Carnegie Mellon University,322,116,8.1,6,80.25
+93,5,Carnegie Mellon University,306,93,6.8,0,73
+94,5,Carnegie Mellon University,318,100,6.85,33,78
+95,5,Carnegie Mellon University,296,91,6.7,20,40
+96,5,Carnegie Mellon University,312,98,7.28,31,75.75
+97,5,Carnegie Mellon University,321,105,8.3,0,80.25
+98,5,Carnegie Mellon University,308,102,7.48,15,75.75
+99,5,Carnegie Mellon University,315,108,7.83,8,75.75
+100,5,Carnegie Mellon University,321,109,7.8,18,80.75
+101,5,Carnegie Mellon University,310,107,7.39,14,75.75
+102,5,Carnegie Mellon University,315,109,8.04,6,80.25
+103,5,Carnegie Mellon University,315,110,8.6,3,83.25
+104,5,Carnegie Mellon University,329,111,7,144,80.75
+105,5,Carnegie Mellon University,316,112,7,44,55
+106,5,Carnegie Mellon University,316,104,8.55,60,83.25
+107,5,Carnegie Mellon University,317,100,8.57,16,80
+108,5,Carnegie Mellon University,317,112,8.72,36,80.75
+109,5,Carnegie Mellon University,314,108,6.15,24,50
+110,5,Carnegie Mellon University,305,109,8.1,25,80.25
+111,5,Carnegie Mellon University,314,109,7.2,38,75.75
+112,5,Carnegie Mellon University,318,103,8.5,27,80.25
+113,5,Carnegie Mellon University,320,111,7.98,30,80.75
+114,5,Carnegie Mellon University,314,108,7.21,22,83.25
+115,5,Carnegie Mellon University,330,116,8.19,0,80.25
+116,5,Carnegie Mellon University,321,106,7.3,36,83.25
+117,5,Carnegie Mellon University,321,109,7.6,18,83.25
+118,5,Carnegie Mellon University,318,102,7.38,45,83.25
+119,5,Carnegie Mellon University,319,98,8.045,7,80.25
+120,5,Carnegie Mellon University,322,110,3.1,12,40
+121,5,Carnegie Mellon University,324,106,7.8,33,83.25
+122,5,Carnegie Mellon University,325,116,8.48,2,80.75
+123,5,Carnegie Mellon University,315,109,6.72,29,50.25
+124,5,Carnegie Mellon University,293,101,8.72,20,44
+125,5,Carnegie Mellon University,321,108,5.822,21,71
+126,5,Carnegie Mellon University,318,109,6.75,13,50.25
+127,5,Carnegie Mellon University,309,100,6.03,28,50.25
+128,5,Carnegie Mellon University,314,112,7.22,20,83.25
+129,5,Carnegie Mellon University,330,107,9.23,15,80.75
+130,5,Carnegie Mellon University,329,110,7.4,4,76
+131,5,Carnegie Mellon University,317,106,6.84,82,50.25
+132,5,Carnegie Mellon University,320,110,6.2,40,64
+133,5,Carnegie Mellon University,319,104,7,36,78
+134,5,Carnegie Mellon University,315,104,8.54,30,80
+135,5,Carnegie Mellon University,326,105,5.8,28,73
+136,5,Carnegie Mellon University,323,116,8.38,4,80.25
+137,5,Carnegie Mellon University,310,106,9.5,24,80.75
+138,5,Carnegie Mellon University,306,102,6,26,74.75
+139,5,Carnegie Mellon University,321,114,7.58,38,80.75
+140,5,Carnegie Mellon University,318,97,8.15,6,80.25
+141,5,Carnegie Mellon University,312,110,7.62,2,83.25
+142,5,Carnegie Mellon University,308,98,6,25,74.75
+143,5,Carnegie Mellon University,313,111,8.5,31,80.25
+144,5,Carnegie Mellon University,321,104,6.6,76,80
+145,5,Carnegie Mellon University,325,108,7.32,6,80.75
+146,5,Carnegie Mellon University,328,112,7,30,75.25
+147,5,Carnegie Mellon University,316,102,7.99,13,83.25
+148,5,Carnegie Mellon University,322,105,6.2,68,75.25
+149,5,Carnegie Mellon University,310,103,8.1,1,80.25
+150,5,Carnegie Mellon University,323,99,7.24,2,80.75
+151,5,Carnegie Mellon University,319,100,6.6,54,75.25
+152,5,Carnegie Mellon University,314,104,5.3,53,69.25
+153,5,Carnegie Mellon University,311,104,8.6,2,78
+154,5,Carnegie Mellon University,321,106,7.79,20,80.75
+155,5,Carnegie Mellon University,332,112,8.6,15,80.75
+156,5,Carnegie Mellon University,317,105,6.33,57,74.75
+157,5,Carnegie Mellon University,308,100,9.1,21,80.75
+158,5,Carnegie Mellon University,311,113,5.305,36,64
+159,5,Carnegie Mellon University,316,102,7.58,42,83.25
+160,5,Carnegie Mellon University,320,107,6.4,60,68.75
+161,5,Carnegie Mellon University,316,116,8.19,3,80.25
+162,5,Carnegie Mellon University,322,110,7.404,27,80.75
+163,5,Carnegie Mellon University,334,117,8.21,0,80.25
+164,5,Carnegie Mellon University,324,109,7.4,21,80.75
+165,5,Carnegie Mellon University,317,106,8.81,32,80.75
+166,5,Carnegie Mellon University,316,112,8.48,21,83.25
+167,5,Carnegie Mellon University,317,104,8.3,23,80.25
+168,5,Carnegie Mellon University,323,112,6.121,27,70
+169,5,Carnegie Mellon University,315,105,9.56,19,80.75
+170,5,Carnegie Mellon University,314,109,8.6,24,80.75
+171,5,Carnegie Mellon University,318,118,8.43,30,80.25
+172,5,Carnegie Mellon University,319,113,6.84,26,71.75
+173,5,Carnegie Mellon University,326,111,8.48,24,80.75
+174,5,Carnegie Mellon University,329,105,9.21,13,80.75
+175,5,Carnegie Mellon University,320,105,8.1,24,80.25
+176,5,Carnegie Mellon University,318,104,9.24,16,80.75
+177,5,Carnegie Mellon University,324,113,6.05,0,65
+178,5,Carnegie Mellon University,329,113,7.65,40,80.75
+179,5,Carnegie Mellon University,309,101,7.61,9,83.25
+180,5,Carnegie Mellon University,314,110,6.7,60,66.75
+181,5,Carnegie Mellon University,320,110,7.54,7,80.75
+182,5,Carnegie Mellon University,322,106,7.29,26,80.75
+183,5,Carnegie Mellon University,315,101,8.45,24,83.25
+184,5,Carnegie Mellon University,321,109,5.5,29,71
+185,5,Carnegie Mellon University,319,110,8.98,6,80.75
+186,5,Carnegie Mellon University,307,100,8.91,24,80.75
+187,5,Carnegie Mellon University,325,114,7.72,25,80.75
+188,5,Carnegie Mellon University,321,110,9.45,11,80.75
+189,5,Carnegie Mellon University,320,104,6.56,19,80.75
+190,5,Carnegie Mellon University,311,104,5.543,0,67
+191,5,Carnegie Mellon University,317,110,6.79,1,63
+192,5,Carnegie Mellon University,316,108,6.6,13,64
+193,5,Carnegie Mellon University,308,95,6.643,25,63
+194,5,Carnegie Mellon University,313,98,9.2,13,80.75
+195,5,Carnegie Mellon University,332,112,9.45,4,80.75
+196,5,Carnegie Mellon University,314,105,7.4,6,83.25
+197,5,Carnegie Mellon University,293,82,5,22,50
+198,5,Carnegie Mellon University,314,106,7.082,36,83.25
+199,5,Carnegie Mellon University,320,98,7.2,36,80.75
+200,5,Carnegie Mellon University,332,110,8.76,8,80.75
+201,5,Carnegie Mellon University,325,115,6.98,25,76
+202,5,Carnegie Mellon University,319,109,7.97,24,83.25
+203,5,Carnegie Mellon University,319,104,9.39,2,80.75
+204,5,Carnegie Mellon University,322,110,5.66,6,68
+205,5,Carnegie Mellon University,321,110,6.1,46,73
+206,5,Carnegie Mellon University,322,113,8.79,6,80.75
+207,5,Carnegie Mellon University,309,98,6,0,62
+208,3,University of Delaware,309,106,9.24,40,69
+209,3,University of Delaware,305,98,4.6,54,37
+210,3,University of Delaware,306,94,6.6,0,51
+211,3,University of Delaware,311,106,6.4,48,53
+212,3,University of Delaware,300,99,7.46,0,49
+213,3,University of Delaware,304,90,6,30,40
+214,3,University of Delaware,304,90,6,30,40
+215,3,University of Delaware,296,69,6.58,30,46
+216,3,University of Delaware,308,112,8,30,60
+217,3,University of Delaware,300,88,4.913,30,35
+218,3,University of Delaware,295,106,7.51,32,47
+219,3,University of Delaware,303,93,5.91,2,35
+220,3,University of Delaware,310,106,6.47,0,51
+221,3,University of Delaware,313,108,6.47,12,53
+222,3,University of Delaware,303,108,7.696,2,49
+223,3,University of Delaware,300,86,7.4,16,46
+224,3,University of Delaware,306,92,6.75,1,44
+225,3,University of Delaware,305,93,7.2,25,53
+226,3,University of Delaware,312,101,7,0,58
+227,3,University of Delaware,283,98,6.3,0,42
+228,3,University of Delaware,281,86,6.9,60,37
+229,3,University of Delaware,305,98,5.7,8,39
+230,3,University of Delaware,331,98,6,15,50
+231,3,University of Delaware,300,83,6.319,12,41
+232,3,University of Delaware,296,100,8.05,48,60
+233,3,University of Delaware,302,99,6.291,53,43
+234,3,University of Delaware,297,98,6.87,32,41
+235,3,University of Delaware,302,98,6,29,47
+236,3,University of Delaware,304,99,7.1,38,54
+237,3,University of Delaware,309,98,6.64,36,47
+238,3,Drexel University,301,69,6.5,10,45
+239,3,Drexel University,313,100,6,12,78
+240,3,Drexel University,305,84,6.09,8,50
+241,3,Drexel University,292,85,7.62,36,50
+242,3,Drexel University,309,97,6.88,0,75
+243,3,Drexel University,298,88,5.243,6,55.5
+244,3,Drexel University,300,104,7.8,20,55.5
+245,3,Drexel University,302,86,7.75,0,55.5
+246,3,Drexel University,305,96,8.4,4,55.5
+247,3,Drexel University,309,93,7.445,4,83
+248,3,Drexel University,302,98,8.22,8,55.5
+249,3,Drexel University,308,100,6.79,27,76
+250,3,Drexel University,302,86,6,28,55.5
+251,3,Drexel University,314,114,6.81,6,77
+252,3,Drexel University,314,107,8.25,6,86
+253,3,Drexel University,307,101,8.42,41,86
+254,3,Drexel University,305,106,8,6,55.5
+255,3,Drexel University,309,94,6.45,13,72
+256,3,Drexel University,318,113,5.97,20,67
+257,3,Drexel University,302,96,7.3,74,55.5
+258,3,Drexel University,297,86,5.72,32,55.5
+259,3,Drexel University,318,110,8.2,20,86
+260,3,Drexel University,306,102,6,26,70.75
+261,3,Drexel University,308,100,6.47,38,71.25
+262,3,Drexel University,296,86,6.2,30,55.5
+263,3,Drexel University,311,98,5.371,30,72
+264,3,Drexel University,305,98,5.7,8,55.5
+265,3,Drexel University,298,86,6.5,7,55.5
+266,3,Drexel University,303,90,5.38,0,55.5
+267,3,Drexel University,315,106,5.5,30,72
+268,3,Drexel University,310,96,5.7,57,72
+269,3,Drexel University,311,108,6.8,27,73.75
+270,3,Drexel University,309,105,7.5,0,85
+271,3,Drexel University,318,115,7.43,0,86
+272,3,University of Arizona,312,100,6.2,60,40
+273,3,University of Arizona,312,102,6,20,40
+274,3,University of Arizona,318,102,6.2,32,40
+275,3,University of Arizona,311,106,6.3,19,40
+276,3,University of Arizona,315,112,8.24,1,56
+277,3,University of Arizona,308,101,7.79,16,48
+278,3,University of Arizona,308,93,7.8,26,36
+279,3,University of Arizona,314,96,5.828,40,40
+280,3,University of Arizona,319,101,6.57,15,40
+281,3,University of Arizona,322,110,5.66,6,40
+282,3,University of Arizona,311,106,6.323,19,40
+283,3,University of Arizona,319,114,6.71,14,50
+284,3,University of Arizona,320,96,8.46,42,74
+285,3,University of Arizona,318,109,6.4,30,46
+286,3,University of Arizona,308,108,8.65,36,51
+287,3,University of Arizona,317,103,7.4,60,40
+288,3,University of Arizona,321,117,8.22,30,78
+289,3,University of Arizona,307,99,6.2,16,35
+290,3,University of Arizona,326,115,9.38,1,79
+291,3,University of Arizona,308,105,8,60,53
+292,3,University of Arizona,317,110,6.93,25,40
+293,3,University of Arizona,315,104,7.2,3,40
+294,3,University of Arizona,301,88,7.512,60,35
+295,3,University of Arizona,315,104,6.97,18,40
+296,3,University of Arizona,325,115,9.12,4,76
+297,3,University of Arizona,319,114,6.71,14,59
+298,3,University of Arizona,309,108,8.57,37,51
+299,3,University of Arizona,312,110,8.6,24,49
+300,3,University of Arizona,305,109,8.1,25,41
+301,3,University of Arizona,325,115,9.55,26,82
+302,3,University of Arizona,324,90,8.57,23,78
+303,3,University of Arizona,326,111,5.51,42,49
+304,3,University of Arizona,316,112,8.48,21,73
+305,3,University of Arizona,319,96,6.81,0,40
+306,3,University of Arizona,313,101,6.32,42,40
+307,3,University of Arizona,313,107,8.96,0,63
+308,3,University of Arizona,316,103,7.601,13,58
+309,3,University of Arizona,306,98,10,0,69
+310,3,University of Arizona,317,101,6.2,18,43
+311,3,University of Arizona,308,84,6.35,43,35
+312,3,University of Arizona,329,115,6.1,0,49
+313,3,University of Arizona,314,111,7.15,3,40
+314,3,University of Arizona,307,88,7.61,0,35
+315,3,University of Arizona,311,110,6.1,50,40
+316,3,University of Arizona,311,101,6.7,24,40
+317,3,University of Arizona,325,116,8.48,2,79
+318,3,University of Arizona,323,110,8.55,0,79
+319,3,University of Arizona,313,104,7.2,19,40
+320,3,University of Arizona,298,88,7.12,1,35
+321,3,University of Arizona,316,102,7.76,54,52
+322,3,University of Arizona,309,103,6.91,13,35
+323,3,University of Arizona,313,97,7,23,40
+324,3,University of Arizona,306,99,6.9,0,35
+325,3,University of Arizona,315,106,6.077,30,45
+326,3,University of Arizona,293,101,8.72,20,35
+327,3,University of Arizona,305,100,9,43,49
+328,3,University of Arizona,310,99,6.48,12,40
+329,3,University of Arizona,310,106,7.92,35,40
+330,3,University of Arizona,321,114,7.58,38,59
+331,3,Illinois Institute of Technology,289,69,7.3,2,50
+332,3,Illinois Institute of Technology,307,98,8.43,0,82
+333,3,Illinois Institute of Technology,298,91,5.39,3,56.75
+334,3,Illinois Institute of Technology,303,94,7.48,38,60.9
+335,3,Illinois Institute of Technology,289,92,6.1,90,80
+336,3,Illinois Institute of Technology,309,108,5.5,14,58
+337,3,Illinois Institute of Technology,293,77,5.7,14,58
+338,3,Illinois Institute of Technology,309,99,5.4,24,58
+339,3,Illinois Institute of Technology,304,92,5.6,37,58
+340,3,Illinois Institute of Technology,300,98,6.764,48,79
+341,3,Illinois Institute of Technology,302,100,5.5,18,58
+342,3,Illinois Institute of Technology,314,108,5.5,21,58
+343,3,Illinois Institute of Technology,303,84,5.857,17,58
+344,3,Illinois Institute of Technology,310,98,7.45,29,60.9
+345,3,Illinois Institute of Technology,315,105,6.45,7,79
+346,3,Illinois Institute of Technology,297,98,6.5,15,79
+347,3,Illinois Institute of Technology,301,83,5.05,60,58
+348,3,Illinois Institute of Technology,299,84,8.64,67,85.5
+349,3,Illinois Institute of Technology,293,93,5.1,8,50
+350,3,Illinois Institute of Technology,300,98,7.6,36,60.9
+351,3,Illinois Institute of Technology,303,91,7.7,1,68
+352,3,Illinois Institute of Technology,305,69,6.4,26,79
+353,3,Illinois Institute of Technology,296,93,7,34,67
+354,3,Illinois Institute of Technology,291,86,6.2,27,65
+355,3,Illinois Institute of Technology,294,93,4.9,35,50
+356,3,Illinois Institute of Technology,306,88,8.04,40,83.75
+357,3,Illinois Institute of Technology,296,100,6.2,0,60
+358,3,Illinois Institute of Technology,295,106,7.51,32,67
+359,3,Illinois Institute of Technology,302,88,7.3,1,67
+360,3,Illinois Institute of Technology,311,106,6.12,18,65
+361,3,Illinois Institute of Technology,299,88,8.1,5,79.5
+362,3,Illinois Institute of Technology,306,99,5.95,0,50
+363,3,Illinois Institute of Technology,300,88,5.5,29,50
+364,3,Illinois Institute of Technology,302,92,6.1,24,65
+365,3,Illinois Institute of Technology,307,69,6.9,26,65
+366,3,Illinois Institute of Technology,305,88,6.02,30,65
+367,3,Illinois Institute of Technology,304,106,5.75,4,50
+368,3,Illinois Institute of Technology,298,82,6.22,0,65
+369,3,Illinois Institute of Technology,300,86,6.27,0,65
+370,3,Illinois Institute of Technology,308,90,5.64,0,50
+371,3,Illinois Institute of Technology,289,81,6.12,8,65
+372,3,Illinois Institute of Technology,306,104,5.3,5,50
+373,3,Illinois Institute of Technology,300,92,6,12,65
+374,3,Illinois Institute of Technology,296,90,5.67,8,51.75
+375,3,Illinois Institute of Technology,290,106,7,48,67
+376,3,Illinois Institute of Technology,307,98,4.9,31,51.75
+377,3,Illinois Institute of Technology,304,99,6.49,0,70.5
+378,3,Illinois Institute of Technology,299,86,5.46,2,51.75
+379,3,Illinois Institute of Technology,297,69,5.4,12,51.75
+380,3,Illinois Institute of Technology,297,106,7.97,0,68.75
+381,3,Illinois Institute of Technology,293,98,6.1,0,70.5
+382,3,Illinois Institute of Technology,286,98,5.3,30,51.75
+383,3,Illinois Institute of Technology,292,80,5.3,55,51.75
+384,3,Illinois Institute of Technology,302,99,6.7,22,70.5
+385,3,Illinois Institute of Technology,306,103,4.7,1,51.75
+386,3,Illinois Institute of Technology,305,90,6.89,19,70.5
+387,3,Illinois Institute of Technology,300,90,5,4,51.75
+388,3,Illinois Institute of Technology,281,86,6.9,60,70.5
+389,3,Illinois Institute of Technology,304,95,6.2,35,70.5
+390,3,Illinois Institute of Technology,307,86,8.4,6,79.5
+391,3,Illinois Institute of Technology,296,86,8.34,0,79.5
+392,3,Illinois Institute of Technology,296,81,7.37,43,68.75
+393,3,Illinois Institute of Technology,299,98,7.8,18,68.75
+394,3,Illinois Institute of Technology,331,98,6,15,70.5
+395,3,Illinois Institute of Technology,298,90,9.12,24,80.75
+396,3,Illinois Institute of Technology,300,83,6.319,12,70.5
+397,3,Illinois Institute of Technology,296,100,8.05,48,80.75
+398,3,Illinois Institute of Technology,300,98,6.6,24,70.5
+399,2,Iowa State University,309,112,8,2,80
+400,2,Iowa State University,307,98,7.61,37,80
+401,2,Iowa State University,311,85,7.3,19,85
+402,2,Iowa State University,318,104,7.76,37,85
+403,2,Iowa State University,317,102,7.324,21,85
+404,2,Iowa State University,309,105,5.7,24,70
+405,2,Iowa State University,299,86,5.5,18,70
+406,2,Iowa State University,318,101,8.3,3,85
+407,2,Iowa State University,315,107,7.71,0,85
+408,2,Iowa State University,305,108,7.78,0,76
+409,2,Iowa State University,310,95,8,30,85
+410,2,Iowa State University,311,100,7.5,0,85
+411,2,Iowa State University,300,100,6,0,72
+412,2,Iowa State University,303,98,7.7,30,75
+413,2,Iowa State University,314,115,7,0,85
+414,2,Iowa State University,315,115,5.459,30,75
+415,2,Iowa State University,307,97,5.6,0,66
+416,2,Iowa State University,309,112,7.95,3,80
+417,2,Iowa State University,316,112,8.87,18,87
+418,2,Iowa State University,313,105,6.4,11,80
+419,2,Iowa State University,311,112,6.93,18,80
+420,2,Iowa State University,321,116,6.3,0,84.5
+421,2,Iowa State University,325,99,6.4,8,84.5
+422,2,Iowa State University,308,100,8.6,34,80
+423,2,Iowa State University,313,106,7.58,40,84
+424,2,Iowa State University,307,98,7.69,33,73.4
+425,2,Iowa State University,306,97,7.5,55,73
+426,2,Iowa State University,305,99,6.72,72,73
+427,2,Iowa State University,309,106,6.78,20,73
+428,2,Iowa State University,311,109,6.5,29,80
+429,2,Iowa State University,309,97,7.2,43,73
+430,2,Iowa State University,311,102,6.098,25,80
+431,2,Iowa State University,315,100,8.06,42,86
+432,2,Iowa State University,308,99,5.75,56,73
+433,2,Iowa State University,310,103,7.5,20,83.5
+434,2,Iowa State University,308,106,7.95,18,80
+435,2,Iowa State University,304,96,9.24,74,87
+436,2,Iowa State University,301,84,7.67,50,84
+437,2,Iowa State University,310,107,6.71,12,83.5
+438,2,Iowa State University,304,104,8.7,16,80
+439,2,Iowa State University,310,106,6.89,25,83.5
+440,2,Iowa State University,316,98,8.98,22,87
+441,2,Iowa State University,309,106,7.17,29,75.25
+442,2,Iowa State University,318,113,5.97,20,77
+443,2,Iowa State University,313,101,6.1,17,78
+444,2,Iowa State University,304,101,7.86,8,75.25
+445,2,Iowa State University,320,112,5.2,48,80
+446,2,Iowa State University,306,90,7.23,17,75.25
+447,2,Iowa State University,308,107,7.03,11,75.25
+448,2,Iowa State University,303,108,5.76,33,70
+449,2,Iowa State University,314,101,7.351,46,75.75
+450,2,Iowa State University,292,92,6,30,70
+451,2,Iowa State University,305,92,6.62,36,75.25
+452,2,Iowa State University,303,98,7.69,22,75.25
+453,2,Iowa State University,310,95,8.98,35,80
+454,2,Iowa State University,293,82,5,22,70
+455,2,Iowa State University,326,105,5.8,28,80
+456,2,Iowa State University,316,106,6.45,28,75.75
+457,2,Iowa State University,300,101,7.5,1,72
+458,2,Iowa State University,307,105,6,0,62
+459,2,Iowa State University,316,106,7.26,11,75.75
+460,2,Iowa State University,310,101,5.5,25,72
+461,3,Indiana University Bloomington,315,110,8.6,3,82.5
+462,3,Indiana University Bloomington,314,106,7.63,6,82.5
+463,3,Indiana University Bloomington,321,112,6.7,28,83
+464,3,Indiana University Bloomington,315,103,6.1,11,73
+465,3,Indiana University Bloomington,318,112,7.53,16,83
+466,3,Indiana University Bloomington,309,100,5.6,40,75
+467,3,Indiana University Bloomington,321,100,8.55,37,88
+468,3,Indiana University Bloomington,328,109,5.7,33,75.75
+469,3,Indiana University Bloomington,318,106,7.36,2,80
+470,3,Indiana University Bloomington,323,104,8.7,7,85
+471,3,Indiana University Bloomington,324,104,8.49,29,87
+472,3,Indiana University Bloomington,319,105,6.8,6,78
+473,3,Indiana University Bloomington,327,110,7.125,39,86.5
+474,3,Indiana University Bloomington,307,107,8,18,81.5
+475,3,Indiana University Bloomington,316,104,8.45,38,84.75
+476,3,Indiana University Bloomington,316,112,5.964,29,74.75
+477,3,Indiana University Bloomington,330,113,7.23,37,88
+478,3,Indiana University Bloomington,310,101,7.9,27,83
+479,3,Indiana University Bloomington,317,110,8.04,24,84.75
+480,3,Indiana University Bloomington,325,116,8.48,2,86.75
+481,3,Indiana University Bloomington,303,102,6,9,78.25
+482,3,Indiana University Bloomington,320,112,7.548,28,80
+483,3,Indiana University Bloomington,325,119,8.24,0,87
+484,3,Indiana University Bloomington,316,103,7.601,13,80
+485,3,Indiana University Bloomington,323,103,7.92,7,80
+486,3,Indiana University Bloomington,318,118,8.43,30,84.75
+487,3,Indiana University Bloomington,326,115,9.38,1,90
+488,3,Indiana University Bloomington,319,113,9.3,11,84.75
+489,3,Indiana University Bloomington,313,111,8.5,31,84.75
+490,3,Indiana University Bloomington,315,105,7.42,0,78
+491,3,Indiana University Bloomington,319,96,6.81,0,78
+492,3,Indiana University Bloomington,319,112,7.52,35,79
+493,3,Indiana University Bloomington,312,113,6,0,79.25
+494,3,Indiana University Bloomington,324,113,6.05,0,79.25
+495,3,Indiana University Bloomington,316,100,5.73,0,79.25
+496,3,Indiana University Bloomington,322,110,7.404,27,75.5
+497,3,Indiana University Bloomington,317,114,5.652,36,75.5
+498,3,Indiana University Bloomington,311,101,6.7,24,75.5
+499,3,Indiana University Bloomington,316,114,6.5,26,75.5
+500,3,Indiana University Bloomington,312,108,7.14,6,76
+501,3,Indiana University Bloomington,312,110,8.6,24,84.75
+502,3,Indiana University Bloomington,312,105,5.986,18,72
+503,3,Indiana University Bloomington,326,113,6.35,44,75.75
+504,3,Indiana University Bloomington,324,110,5.858,16,74
+505,3,Indiana University Bloomington,322,104,8.3,0,84.5
+506,3,Indiana University Bloomington,319,113,6.84,26,75
+507,3,Indiana University Bloomington,324,114,8.3,30,85.5
+508,3,Indiana University Bloomington,312,102,6,20,75
+509,3,Indiana University Bloomington,320,108,6,41,75
+510,3,Indiana University Bloomington,312,98,7.07,14,75
+511,3,Indiana University Bloomington,308,108,8.65,36,75
+512,3,Indiana University Bloomington,314,108,6.6,28,75
+513,3,Indiana University Bloomington,306,99,8.79,30,75
+514,3,Indiana University Bloomington,315,101,9.81,0,85
+515,3,Indiana University Bloomington,314,100,8.5,15,83
+516,3,Indiana University Bloomington,321,114,7.58,38,75
+517,3,Indiana University Bloomington,302,100,6.6,0,75
+518,3,Indiana University Bloomington,303,103,9,2,75
+519,3,Indiana University Bloomington,310,96,7.47,36,75
+520,4,"University of Minnesota, Twin Cities",321,104,6.6,76,40
+521,4,"University of Minnesota, Twin Cities",318,106,6.41,0,39
+522,4,"University of Minnesota, Twin Cities",311,100,7,0,38
+523,4,"University of Minnesota, Twin Cities",326,106,7,0,45
+524,4,"University of Minnesota, Twin Cities",320,102,7,30,35
+525,4,"University of Minnesota, Twin Cities",308,88,7.06,0,40
+526,4,"University of Minnesota, Twin Cities",306,94,6.3,20,40
+527,4,"University of Minnesota, Twin Cities",309,102,6.6,30,40
+528,4,"University of Minnesota, Twin Cities",319,110,7,0,40
+529,4,"University of Minnesota, Twin Cities",316,103,7.6,28,40
+530,4,"University of Minnesota, Twin Cities",300,94,8.1,29,35
+531,4,"University of Minnesota, Twin Cities",321,113,8.83,20,60
+532,4,"University of Minnesota, Twin Cities",296,97,8.85,22,35
+533,4,"University of Minnesota, Twin Cities",321,114,7.58,38,45
+534,4,"University of Minnesota, Twin Cities",312,109,7.2,33,45.5
+535,4,"University of Minnesota, Twin Cities",304,106,8.2,60,45.5
+536,4,"University of Minnesota, Twin Cities",305,98,5.7,8,35
+537,4,"University of Minnesota, Twin Cities",320,95,6.7,14,37
+538,4,"University of Minnesota, Twin Cities",300,101,7.5,1,37
+539,3,Northeastern University,308,92,5.833,60,65
+540,3,Northeastern University,320,108,6.1,15,72.25
+541,3,Northeastern University,303,85,6.3,6,68
+542,3,Northeastern University,287,87,8.8,18,64
+543,3,Northeastern University,308,98,7.6,20,79
+544,3,Northeastern University,313,107,5.7,6,72
+545,3,Northeastern University,289,102,5.6,33,50
+546,3,Northeastern University,310,96,6,24,73
+547,3,Northeastern University,296,100,6.2,0,55
+548,3,Northeastern University,301,97,6.28,40,71.25
+549,3,Northeastern University,293,81,5.9,44,55
+550,3,Northeastern University,305,69,6.4,26,60
+551,3,Northeastern University,300,85,6.52,17,71.25
+552,3,Northeastern University,296,93,5.7,45,55
+553,3,Northeastern University,290,98,6.03,4,55
+554,3,Northeastern University,310,99,5.2,43,70
+555,3,Northeastern University,297,98,6.08,0,55
+556,3,Northeastern University,298,82,6.22,0,55
+557,3,Northeastern University,305,102,8.33,3,85
+558,3,Northeastern University,313,102,7.4,0,78.75
+559,3,Northeastern University,306,99,8.5,0,85
+560,3,Northeastern University,306,104,7.522,20,79
+561,3,Northeastern University,296,83,7.01,3,56.25
+562,3,Northeastern University,309,104,5.1,38,67.25
+563,3,Northeastern University,331,107,5.936,24,76
+564,3,Northeastern University,303,87,6.3,60,67.25
+565,3,Northeastern University,303,89,6.5,0,67.25
+566,3,Northeastern University,306,96,6.8,60,67.25
+567,3,Northeastern University,307,97,6,0,67.25
+568,3,Northeastern University,305,90,8.65,8,85
+569,3,Northeastern University,299,84,8.64,67,63
+570,3,Northeastern University,302,102,5.6,8,67.25
+571,3,Northeastern University,293,101,8.72,20,68
+572,3,Northeastern University,301,90,7.13,0,76
+573,3,Northeastern University,298,90,5.243,6,50
+574,3,Northeastern University,292,72,5.4,48,50
+575,3,Northeastern University,289,98,7.353,24,55.75
+576,3,Northeastern University,300,97,7.1,5,76
+577,3,Northeastern University,293,87,5.92,11,50
+578,3,Northeastern University,315,111,8.12,25,81
+579,3,Northeastern University,307,99,5.535,20,67.25
+580,3,Northeastern University,303,88,6.51,23,67.25
+581,3,Northeastern University,293,107,7.7,0,52.25
+582,3,Northeastern University,290,86,8.25,48,65
+583,3,Northeastern University,304,90,6.1,46,67.25
+584,3,Northeastern University,300,99,7.3,0,76
+585,3,Northeastern University,316,107,7.2,40,79
+586,3,Northeastern University,301,92,6.6,20,67.25
+587,3,Northeastern University,314,109,7.18,0,75
+588,3,Northeastern University,308,101,6.5,30,67.25
+589,3,Northeastern University,310,92,5.5,0,70
+590,3,Northeastern University,303,98,7.328,46,76
+591,3,Northeastern University,315,110,5.9,44,71.75
+592,3,Northeastern University,293,82,5,22,45
+593,3,Northeastern University,312,102,9.05,2,85
+594,3,Northeastern University,304,95,6.2,35,67.75
+595,3,Northeastern University,312,106,7.9,0,83
+596,3,Northeastern University,305,98,8.11,0,85
+597,3,Northeastern University,295,93,4.9,41,45
+598,3,Northeastern University,298,90,9.12,24,70
+599,3,Northwestern University,331,107,5.936,24,56.5
+600,3,Northwestern University,319,104,9.21,30,85.5
+601,3,Northwestern University,317,105,7.5,60,75.5
+602,3,Northwestern University,318,110,8.2,20,84
+603,3,Northwestern University,326,110,7.2,50,75.5
+604,3,Northwestern University,316,109,5.9,36,56.5
+605,3,Northwestern University,326,104,7.79,12,75.5
+606,3,Northwestern University,311,99,7,20,75.5
+607,3,Northwestern University,318,106,8.1,30,84
+608,3,Northwestern University,317,104,7,30,75.5
+609,3,Northwestern University,311,101,5.7,54,56.5
+610,3,Northwestern University,318,105,6.8,42,58
+611,3,Northwestern University,314,95,5.3,0,56.5
+612,3,Northwestern University,310,108,8.98,35,85
+613,3,Northwestern University,315,112,8.3,12,84
+614,3,Northwestern University,293,82,5,22,56
+615,3,Northwestern University,315,100,7.54,0,75.5
+616,3,Northwestern University,326,99,8.322,12,84.75
+617,4,New York University,310,112,7,30,75.5
+618,4,New York University,312,110,8.6,24,83
+619,4,New York University,313,100,7.65,0,75.5
+620,4,New York University,315,96,6.5,0,63.5
+621,4,New York University,302,98,8,29,79
+622,4,New York University,311,102,7.2,0,75.5
+623,4,New York University,322,110,5.66,6,55
+624,4,New York University,314,106,5.05,24,63.5
+625,4,New York University,310,106,7.34,18,75.5
+626,4,New York University,308,106,7.95,18,73
+627,4,New York University,311,97,6.5,9,63.5
+628,4,New York University,314,102,5.9,38,63.5
+629,4,New York University,309,96,7.79,7,73
+630,4,New York University,316,117,8.65,6,83
+631,4,New York University,307,104,5.6,84,73
+632,4,New York University,319,110,9.5,16,87
+633,4,New York University,311,96,6.3,18,63.5
+634,4,New York University,311,107,4.7,35,63.5
+635,4,New York University,323,107,7.1,44,70
+636,4,New York University,312,104,7.61,20,75.5
+637,4,New York University,313,96,8.03,60,81
+638,4,New York University,307,90,6.9,15,73
+639,4,New York University,320,107,6.4,60,67
+640,4,New York University,316,113,7.86,36,75.5
+641,4,New York University,310,103,6.5,88,62
+642,4,New York University,330,111,6,24,65
+643,4,New York University,311,98,7.31,25,75.5
+644,4,New York University,318,96,6.85,33,62
+645,4,New York University,304,92,7.2,16,73
+646,4,New York University,311,97,7.7,35,75.5
+647,4,New York University,326,111,5.51,42,59
+648,4,New York University,308,100,9.23,26,85
+649,4,New York University,314,100,7.1,41,75.5
+650,4,New York University,320,113,7.9,17,78
+651,4,New York University,320,100,8.5,34,80
+652,4,New York University,310,115,6.65,48,62
+653,4,New York University,310,90,6.6,6,62
+654,4,New York University,312,91,7.8,14,74.75
+655,4,New York University,320,96,7.54,7,75
+656,4,New York University,310,95,8,0,79
+657,4,New York University,316,100,5.73,0,64
+658,4,New York University,321,104,8.54,10,75.5
+659,4,New York University,313,112,5,43,64
+660,4,New York University,316,102,6.7,9,64
+661,4,New York University,320,113,8.14,0,72
+662,4,New York University,307,98,6.49,30,74.25
+663,4,New York University,306,103,5.8,20,74.25
+664,4,New York University,320,108,6.1,0,63
+665,4,New York University,315,109,7,20,75
+666,4,New York University,321,113,7,12,68
+667,4,New York University,302,98,7.66,30,74.25
+668,4,New York University,315,109,6.506,10,64
+669,4,New York University,293,82,5,22,74.25
+670,4,New York University,298,86,7.7,0,74.25
+671,4,New York University,295,93,4.9,41,74.25
+672,4,New York University,316,106,6.45,28,64
+673,4,New York University,292,77,6,10,74.25
+674,4,New York University,319,100,5.747,12,64
+675,4,New York University,303,103,9,2,74.25
+676,4,New York University,311,98,5.371,30,64
+677,4,New York University,321,105,7.1,1,67.25
+678,4,Pennsylvania State University,315,102,8.2,16,80.75
+679,4,Pennsylvania State University,312,96,8.6,15,80.75
+680,4,Pennsylvania State University,313,96,8.2,12,80.75
+681,4,Pennsylvania State University,316,117,9.1,4,83
+682,4,Pennsylvania State University,327,112,7.7,32,82
+683,4,Pennsylvania State University,315,100,8.31,19,80
+684,4,Pennsylvania State University,316,109,6.64,20,70
+685,4,Pennsylvania State University,324,100,6.96,25,70
+686,4,Pennsylvania State University,325,108,7.16,24,70
+687,4,Pennsylvania State University,305,107,8.44,20,76
+688,4,Pennsylvania State University,317,110,9.12,24,81
+689,4,Pennsylvania State University,318,105,7.358,0,70
+690,4,Pennsylvania State University,307,90,7.234,1,70
+691,4,Pennsylvania State University,313,100,7.545,32,70
+692,4,Pennsylvania State University,321,98,7.35,36,70
+693,4,Pennsylvania State University,312,109,7.2,33,70
+694,4,Pennsylvania State University,318,96,7.4,34,70
+695,4,Pennsylvania State University,316,92,7.982,0,70
+696,4,Pennsylvania State University,328,104,8.1,12,75.5
+697,3,Rochester Institute of Technology,297,98,6.08,0,55.5
+698,3,Rochester Institute of Technology,311,96,7.04,0,80
+699,3,Rochester Institute of Technology,300,98,6.62,54,70.5
+700,3,Rochester Institute of Technology,295,97,6,0,55.5
+701,3,Rochester Institute of Technology,306,104,7.88,0,84.25
+702,3,Rochester Institute of Technology,303,88,5.3,44,62.75
+703,3,Rochester Institute of Technology,306,94,6.79,12,70.5
+704,3,Rochester Institute of Technology,310,91,5.9,6,74.5
+705,3,Rochester Institute of Technology,295,98,5.3,42,55.5
+706,3,Rochester Institute of Technology,295,85,5.25,14,55.5
+707,3,Rochester Institute of Technology,289,75,5.8,39,55.5
+708,3,Rochester Institute of Technology,305,90,8.09,24,79
+709,3,Rochester Institute of Technology,303,106,5.1,20,65
+710,3,Rochester Institute of Technology,307,88,7,0,79
+711,3,Rochester Institute of Technology,301,99,6.1,30,70.5
+712,3,Rochester Institute of Technology,305,103,6.4,10,70
+713,3,Rochester Institute of Technology,301,93,5.7,0,62.75
+714,3,Rochester Institute of Technology,290,80,6,0,55.5
+715,3,Rochester Institute of Technology,304,90,6,30,70.5
+716,3,Rochester Institute of Technology,306,104,7.522,20,79.25
+717,3,Rochester Institute of Technology,311,102,5.78,27,73.75
+718,3,Rochester Institute of Technology,299,85,5.35,24,55.5
+719,3,Rochester Institute of Technology,300,103,9,30,82
+720,3,Rochester Institute of Technology,317,105,6.76,12,78.75
+721,3,Rochester Institute of Technology,299,93,6.1,48,55.5
+722,3,Rochester Institute of Technology,304,100,5.8,0,65
+723,3,Rochester Institute of Technology,301,85,5.7,37,62.75
+724,3,Rochester Institute of Technology,312,103,7.5,36,80
+725,3,Rochester Institute of Technology,302,98,7.7,0,76
+726,3,Rochester Institute of Technology,301,89,7.24,3,76
+727,3,Rochester Institute of Technology,307,102,5.6,28,65
+728,3,Rochester Institute of Technology,297,94,6.48,30,55.5
+729,3,Rochester Institute of Technology,300,86,5.379,26,62.75
+730,3,Rochester Institute of Technology,305,104,7,6,78
+731,3,Rochester Institute of Technology,302,101,5.9,18,65
+732,3,Rochester Institute of Technology,309,104,7.3,30,80
+733,3,Rochester Institute of Technology,303,88,5.4,1,62.75
+734,3,Rochester Institute of Technology,305,106,8,6,82
+735,3,Rochester Institute of Technology,300,98,7.18,54,76
+736,3,Rochester Institute of Technology,328,104,6,18,75
+737,3,Rochester Institute of Technology,305,95,7,1,76
+738,3,Rochester Institute of Technology,293,96,7.58,5,56
+739,3,Rochester Institute of Technology,304,95,6.1,0,70.5
+740,3,Rochester Institute of Technology,294,96,8.9,40,58
+741,3,Rochester Institute of Technology,297,92,5.168,24,55.5
+742,3,Rochester Institute of Technology,302,93,6.9,24,70.5
+743,3,Rochester Institute of Technology,312,107,4.8,11,70
+744,3,Rochester Institute of Technology,294,88,5.7,31,55.5
+745,3,Rochester Institute of Technology,297,86,5.72,32,55.5
+746,3,Rochester Institute of Technology,307,93,6.76,3,70.5
+747,3,Rochester Institute of Technology,302,85,5.3,18,62.75
+748,3,Rochester Institute of Technology,318,101,8.3,3,87.75
+749,3,Rochester Institute of Technology,304,97,5.6,0,62.75
+750,3,Rochester Institute of Technology,290,97,5,30,55.5
+751,3,Rochester Institute of Technology,295,93,4.9,41,55.5
+752,3,Rochester Institute of Technology,308,100,6.47,38,71.25
+753,3,Rochester Institute of Technology,299,101,9.1,14,59
+754,3,Rochester Institute of Technology,321,108,5.106,7,72.25
+755,3,Rensselaer Polytechnic Institute,329,110,7.4,4,84
+756,3,Rensselaer Polytechnic Institute,321,104,6.541,2,73
+757,3,Rensselaer Polytechnic Institute,302,104,6.15,5,59
+758,3,Rensselaer Polytechnic Institute,323,110,8.55,0,88
+759,3,Rensselaer Polytechnic Institute,312,91,7.22,30,74
+760,3,Rensselaer Polytechnic Institute,334,115,6.99,60,79
+761,3,Rensselaer Polytechnic Institute,320,104,7,30,78
+762,3,Rensselaer Polytechnic Institute,328,117,8,0,85
+763,3,Rensselaer Polytechnic Institute,318,106,8.1,30,80
+764,3,Rensselaer Polytechnic Institute,318,111,6.68,6,70
+765,3,Rensselaer Polytechnic Institute,315,99,7.6,0,77
+766,3,Rensselaer Polytechnic Institute,322,107,7.2,60,83
+767,3,Rensselaer Polytechnic Institute,327,104,7.28,9,83
+768,3,Rensselaer Polytechnic Institute,324,106,5.1,0,60
+769,3,Rensselaer Polytechnic Institute,317,98,7.7,34,77
+770,3,Rensselaer Polytechnic Institute,315,107,7.71,0,77
+771,3,Rensselaer Polytechnic Institute,320,113,8.14,0,86
+772,3,Rensselaer Polytechnic Institute,319,114,5.5,30,54.55
+773,3,Rensselaer Polytechnic Institute,322,110,6,10,70
+774,3,Rensselaer Polytechnic Institute,313,100,5.7,10,54.55
+775,3,Rensselaer Polytechnic Institute,321,113,7,12,76.25
+776,3,Rensselaer Polytechnic Institute,317,106,5.38,50,54.55
+777,3,Rensselaer Polytechnic Institute,320,101,8.36,0,85
+778,3,Rensselaer Polytechnic Institute,309,105,7.75,0,74.25
+779,3,Rensselaer Polytechnic Institute,293,82,5,22,50.75
+780,3,Rensselaer Polytechnic Institute,302,100,6.6,0,59.25
+781,3,Rensselaer Polytechnic Institute,306,97,8.5,34,74.75
+782,3,Rensselaer Polytechnic Institute,297,98,6.87,32,50.75
+783,3,Rensselaer Polytechnic Institute,315,106,5.5,30,53
+784,3,Rensselaer Polytechnic Institute,297,97,6.3,87,50.75
+785,3,Rensselaer Polytechnic Institute,300,98,9.6,0,75
+786,3,Rensselaer Polytechnic Institute,291,79,6.78,32,50.75
+787,3,Rutgers University-New Brunswick,296,105,6.3,18,70
+788,3,Rutgers University-New Brunswick,306,96,8.9,27,80
+789,3,Rutgers University-New Brunswick,310,107,7.39,14,78.5
+790,3,Rutgers University-New Brunswick,303,97,5.8,37,60
+791,3,Rutgers University-New Brunswick,294,86,6.9,39,70
+792,3,Rutgers University-New Brunswick,301,88,8.6,55,75
+793,3,Rutgers University-New Brunswick,300,98,7.76,0,78
+794,3,Rutgers University-New Brunswick,317,103,8.1,6,80
+795,3,Rutgers University-New Brunswick,293,82,5,22,60
+796,3,Rutgers University-New Brunswick,299,101,9.1,14,75
+797,3,Rutgers University-New Brunswick,313,103,6.5,0,75
+798,3,Rutgers University-New Brunswick,304,90,7.5,22,73
+799,3,Rutgers University-New Brunswick,321,108,5.106,7,70
+800,3,Rutgers University-New Brunswick,293,86,6.5,21,70
+801,3,"Rutgers University, Newark",297,98,6.08,0,54.5
+802,3,"Rutgers University, Newark",304,102,8.5,52,82
+803,3,"Rutgers University, Newark",309,93,7.3,0,78
+804,3,"Rutgers University, Newark",302,98,6.6,18,65.5
+805,3,"Rutgers University, Newark",303,99,6.668,40,65.5
+806,3,"Rutgers University, Newark",302,69,8.56,0,79
+807,3,"Rutgers University, Newark",309,99,6.415,17,65.5
+808,3,"Rutgers University, Newark",297,97,4.8,0,54.5
+809,3,"Rutgers University, Newark",299,100,5,25,54.5
+810,3,"Rutgers University, Newark",304,99,5.96,0,55
+811,3,"Rutgers University, Newark",302,100,5.5,18,55
+812,3,"Rutgers University, Newark",310,100,6.5,4,78
+813,3,"Rutgers University, Newark",306,97,8.07,26,81
+814,3,"Rutgers University, Newark",306,94,6.79,12,65.5
+815,3,"Rutgers University, Newark",322,101,5.389,24,80
+816,3,"Rutgers University, Newark",319,112,6,0,78.5
+817,3,"Rutgers University, Newark",318,98,5.8,0,76
+818,3,"Rutgers University, Newark",299,106,7.3,0,54.5
+819,3,"Rutgers University, Newark",303,85,6.3,6,65.5
+820,3,"Rutgers University, Newark",300,93,6.44,82,65.5
+821,3,"Rutgers University, Newark",294,95,6.25,12,54.5
+822,3,"Rutgers University, Newark",294,90,6.6,0,54.5
+823,3,"Rutgers University, Newark",298,95,6.2,30,54.5
+824,3,"Rutgers University, Newark",303,91,7.7,1,78
+825,3,"Rutgers University, Newark",303,90,5.5,14,55
+826,3,"Rutgers University, Newark",293,95,7.3,33,54.5
+827,3,"Rutgers University, Newark",291,86,6.2,27,54.5
+828,3,"Rutgers University, Newark",294,93,4.9,35,54.5
+829,3,"Rutgers University, Newark",294,90,8.69,16,54.5
+830,3,"Rutgers University, Newark",300,90,6.2,56,65.5
+831,3,"Rutgers University, Newark",295,90,5.9,26,54.5
+832,3,"Rutgers University, Newark",308,95,3.5,3,40
+833,3,"Rutgers University, Newark",297,101,6.8,19,54.5
+834,3,"Rutgers University, Newark",306,90,5.914,31,55
+835,3,"Rutgers University, Newark",299,91,5.855,32,54.5
+836,3,"Rutgers University, Newark",310,96,5.14,36,75.75
+837,3,"Rutgers University, Newark",310,96,7.7,2,83.25
+838,3,"Rutgers University, Newark",296,69,5.5,36,54.5
+839,3,"Rutgers University, Newark",310,107,6.71,12,79.75
+840,3,"Rutgers University, Newark",313,112,5,43,75.5
+841,3,"Rutgers University, Newark",308,92,5.833,60,55
+842,3,"Rutgers University, Newark",302,106,8.39,24,81
+843,3,"Rutgers University, Newark",310,92,5.5,0,75
+844,3,"Rutgers University, Newark",310,115,8.98,35,85
+845,3,"Rutgers University, Newark",302,98,6.8,40,65.5
+846,3,"Rutgers University, Newark",303,112,7.02,0,78.75
+847,3,"Rutgers University, Newark",292,90,6.52,13,54.5
+848,3,"Rutgers University, Newark",295,93,4.9,41,54.5
+849,4,Santa Clara University,289,102,5.6,33,50
+850,4,Santa Clara University,306,98,6.698,48,56
+851,4,Santa Clara University,309,103,6.4,0,56
+852,4,Santa Clara University,293,85,5,32,50
+853,4,Santa Clara University,309,107,5.892,26,52
+854,4,Santa Clara University,302,81,5.7,24,52
+855,4,Santa Clara University,305,102,7.56,53,65
+856,4,Santa Clara University,304,110,6.004,10,56
+857,4,Santa Clara University,313,104,7.06,0,75.25
+858,4,Santa Clara University,310,92,6.4,0,55.5
+859,4,Santa Clara University,303,106,5.1,20,52
+860,4,Santa Clara University,312,87,6.6,30,55.5
+861,4,Santa Clara University,311,100,8,0,78.5
+862,4,Santa Clara University,315,95,4.9,30,55
+863,4,Santa Clara University,292,100,2,0,50
+864,4,Santa Clara University,275,80,7.3,0,50
+865,4,Santa Clara University,316,113,5.5,0,55
+866,4,Santa Clara University,304,100,8.23,46,69
+867,4,Santa Clara University,306,104,7.5,34,65
+868,4,Santa Clara University,298,104,7.23,7,50
+869,4,Santa Clara University,307,106,5.9,30,52
+870,4,Santa Clara University,301,92,5.7,5,52
+871,4,Santa Clara University,307,97,6.7,52,57
+872,4,Santa Clara University,322,110,3.1,12,50
+873,4,Santa Clara University,301,100,5.84,37,52
+874,4,Santa Clara University,317,108,8.2,0,79
+875,4,Santa Clara University,308,100,5.9,29,52
+876,4,Santa Clara University,306,99,6.9,0,57
+877,4,Santa Clara University,322,107,6.947,28,65
+878,4,Santa Clara University,307,108,7,0,65
+879,4,Santa Clara University,309,94,8.66,2,69
+880,4,Santa Clara University,319,101,6.57,15,56
+881,4,Santa Clara University,304,96,9.24,74,72
+882,4,Santa Clara University,317,94,7.5,6,76
+883,4,Santa Clara University,307,90,8.1,54,68
+884,4,Santa Clara University,309,94,4.9,6,52
+885,4,Santa Clara University,298,98,6.1,0,50
+886,4,Santa Clara University,302,93,7.1,30,65
+887,4,Santa Clara University,294,89,6.8,23,50
+888,4,Santa Clara University,299,98,8.08,12,50
+889,4,Santa Clara University,297,81,6.1,17,50
+890,4,Santa Clara University,292,85,4.6,8,50
+891,4,Santa Clara University,298,92,5.2,30,50
+892,4,Santa Clara University,294,106,6,0,50
+893,4,Santa Clara University,281,81,4.9,30,50
+894,4,Santa Clara University,303,103,9,2,70.5
+895,4,Santa Clara University,304,90,8,61,68.25
+896,4,Santa Clara University,302,90,7.134,46,65
+897,4,Santa Clara University,302,90,7.134,46,65
+898,4,Santa Clara University,305,98,5.7,8,52
+899,4,Santa Clara University,331,98,6,15,61
+900,4,Santa Clara University,308,100,6.47,38,57
+901,4,Santa Clara University,300,83,6.319,12,57
+902,4,Santa Clara University,296,100,8.05,48,50
+903,4,Santa Clara University,296,98,6.6,31,50
+904,4,Santa Clara University,300,101,7.5,1,65
+905,2,Stevens Institute of Technology,308,92,5.833,60,63.25
+906,2,Stevens Institute of Technology,292,82,6.1,44,75.5
+907,2,Stevens Institute of Technology,289,69,7.3,2,75.5
+908,2,Stevens Institute of Technology,291,86,6.35,9,75.5
+909,2,Stevens Institute of Technology,291,79,6.78,32,75.5
+910,2,Stevens Institute of Technology,298,91,5.39,3,75.5
+911,2,Stevens Institute of Technology,297,98,6.08,0,75.5
+912,2,Stevens Institute of Technology,295,80,6.06,10,75.5
+913,2,Stevens Institute of Technology,305,94,6.7,1,70
+914,2,Stevens Institute of Technology,292,89,7.13,38,76
+915,2,Stevens Institute of Technology,294,83,7.04,15,76
+916,2,Stevens Institute of Technology,297,81,5.7,46,70
+917,2,Stevens Institute of Technology,296,90,5.67,0,70
+918,2,Stevens Institute of Technology,294,86,6.9,39,74
+919,2,Stevens Institute of Technology,294,81,7.1,24,74
+920,2,Stevens Institute of Technology,304,98,7.4,30,80
+921,2,Stevens Institute of Technology,308,100,6.47,38,70
+922,2,Stevens Institute of Technology,298,82,6.22,0,74
+923,2,Stevens Institute of Technology,303,85,6.3,6,70
+924,2,Stevens Institute of Technology,306,98,10,0,88
+925,2,Stevens Institute of Technology,301,107,6,41,70
+926,2,Stevens Institute of Technology,299,102,5.7,0,73.75
+927,2,Stevens Institute of Technology,304,90,8,61,85
+928,2,Stevens Institute of Technology,300,91,5,6,63.25
+929,2,Stevens Institute of Technology,331,107,5.936,24,85
+930,2,Stevens Institute of Technology,301,101,5.2,3,63.25
+931,2,Stevens Institute of Technology,308,102,7.09,0,80.75
+932,2,Stevens Institute of Technology,309,94,6.8,0,70
+933,2,Stevens Institute of Technology,312,98,8.25,0,85
+934,2,Stevens Institute of Technology,313,103,6.5,0,75
+935,2,Stevens Institute of Technology,306,99,5.95,0,63.25
+936,2,Stevens Institute of Technology,313,103,7,0,80
+937,2,Stevens Institute of Technology,304,100,7.08,26,80.75
+938,2,Stevens Institute of Technology,297,101,6.8,19,73.75
+939,2,Stevens Institute of Technology,314,108,6.15,24,77
+940,2,Stevens Institute of Technology,310,96,5.14,36,65
+941,2,Stevens Institute of Technology,293,98,5.9,45,73.75
+942,2,Stevens Institute of Technology,295,101,8.026,2,74
+943,2,Stevens Institute of Technology,289,95,5.946,30,72
+944,2,Stevens Institute of Technology,299,112,5.438,0,72
+945,2,Stevens Institute of Technology,294,93,4.9,35,72
+946,2,Stevens Institute of Technology,300,92,6,12,70
+947,2,Stevens Institute of Technology,292,102,7.32,0,75
+948,2,Stevens Institute of Technology,307,86,5.9,7,62
+949,2,Stevens Institute of Technology,289,89,7,10,75
+950,2,Stevens Institute of Technology,291,93,6.302,1,72
+951,2,Stevens Institute of Technology,299,106,6.56,6,73
+952,2,Stevens Institute of Technology,299,87,7.51,3,75
+953,2,Stevens Institute of Technology,299,90,5,12,71
+954,2,Stevens Institute of Technology,302,91,5.9,67,62
+955,2,Stevens Institute of Technology,304,95,6.1,0,70
+956,2,Stevens Institute of Technology,300,100,5.9,39,62
+957,2,Stevens Institute of Technology,298,88,7.04,30,75
+958,2,Stevens Institute of Technology,295,88,5.2,24,70.75
+959,2,Stevens Institute of Technology,287,98,5.056,1,70.75
+960,2,Stevens Institute of Technology,310,92,5.5,0,65
+961,2,Stevens Institute of Technology,293,82,5,22,70.75
+962,2,Stevens Institute of Technology,304,95,6.2,35,70
+963,2,Stevens Institute of Technology,311,98,5.371,30,65
+964,2,Stevens Institute of Technology,300,84,4.8,0,60
+965,2,Stevens Institute of Technology,305,98,5.7,8,63
+966,2,Stevens Institute of Technology,300,101,7.5,1,80.75
+967,2,Stevens Institute of Technology,296,86,5.6,0,70.75
+968,2,Stevens Institute of Technology,325,90,5.507,23,85
+969,2,Stevens Institute of Technology,302,89,7,0,79
+970,2,Stevens Institute of Technology,296,69,5.5,36,70.75
+971,2,Stevens Institute of Technology,300,100,6.5,0,70.75
+972,2,Stevens Institute of Technology,309,93,5.8,60,63
+973,3,University at Buffalo SUNY,304,88,7.4,57,76
+974,3,University at Buffalo SUNY,313,106,5.9,59,71
+975,3,University at Buffalo SUNY,313,107,5.7,6,61
+976,3,University at Buffalo SUNY,308,93,7.6,27,75
+977,3,University at Buffalo SUNY,312,102,6,20,69
+978,3,University at Buffalo SUNY,318,108,6.5,31,70
+979,3,University at Buffalo SUNY,306,104,7.522,20,78
+980,3,University at Buffalo SUNY,311,102,7.2,0,70
+981,3,University at Buffalo SUNY,305,91,5.9,15,68.5
+982,3,University at Buffalo SUNY,313,98,7.1,32,80.5
+983,3,University at Buffalo SUNY,304,105,3.69,24,43.25
+984,3,University at Buffalo SUNY,322,107,6.947,28,73.75
+985,3,University at Buffalo SUNY,307,95,6.01,48,71.25
+986,3,University at Buffalo SUNY,311,110,5.9,72,68.5
+987,3,University at Buffalo SUNY,309,99,8.56,0,73.5
+988,3,University at Buffalo SUNY,306,100,8.04,40,67.75
+989,3,University at Buffalo SUNY,308,105,8,60,78.75
+990,3,University at Buffalo SUNY,301,93,7.85,20,64.95
+991,3,University at Buffalo SUNY,320,117,5.442,30,58
+992,3,University at Buffalo SUNY,317,110,6.93,25,67
+993,3,University at Buffalo SUNY,323,109,7.53,13,83.65
+994,3,University at Buffalo SUNY,304,83,7.412,18,72.5
+995,3,University at Buffalo SUNY,310,90,6.6,6,67.785
+996,3,University at Buffalo SUNY,314,96,5.828,40,54.56
+997,3,University at Buffalo SUNY,318,106,8.17,0,80.35
+998,3,University at Buffalo SUNY,314,96,8,24,80
+999,3,University at Buffalo SUNY,317,108,8.2,0,83.5
+1000,3,University at Buffalo SUNY,314,96,8.2,30,81
+1001,3,University at Buffalo SUNY,310,102,5.5,26,65.75
+1002,3,University at Buffalo SUNY,313,96,7.9,24,78.65
+1003,3,University at Buffalo SUNY,317,101,6.2,18,70.33
+1004,3,University at Buffalo SUNY,308,84,6.35,43,77.85
+1005,3,University at Buffalo SUNY,308,100,7.31,23,73.95
+1006,3,University at Buffalo SUNY,311,111,5.48,40,58.33
+1007,3,University at Buffalo SUNY,317,106,7.93,57,83.775
+1008,3,University at Buffalo SUNY,312,92,7.02,50,78.885
+1009,3,University at Buffalo SUNY,305,109,5.977,29,51
+1010,3,University at Buffalo SUNY,303,91,7.7,1,66
+1011,3,University at Buffalo SUNY,309,105,8.2,30,73
+1012,3,University at Buffalo SUNY,312,96,7.7,0,68
+1013,3,University at Buffalo SUNY,310,107,7.39,14,79
+1014,3,University at Buffalo SUNY,308,100,5.3,12,62
+1015,3,University at Buffalo SUNY,305,88,9,40,74
+1016,3,University at Buffalo SUNY,307,101,8.63,45,79
+1017,3,University at Buffalo SUNY,308,101,7.3,9,70
+1018,3,University at Buffalo SUNY,304,88,5.936,47,73
+1019,3,University at Buffalo SUNY,300,104,6.911,29,64
+1020,3,University at Buffalo SUNY,308,100,9.23,26,79
+1021,3,University at Buffalo SUNY,312,110,6.8,60,85
+1022,3,University at Buffalo SUNY,308,90,6.4,54,78
+1023,3,University at Buffalo SUNY,305,98,6.912,34,76
+1024,3,University at Buffalo SUNY,308,100,5.9,29,64
+1025,3,University at Buffalo SUNY,311,98,7.74,25,78
+1026,3,University at Buffalo SUNY,301,84,7.67,50,71
+1027,3,University at Buffalo SUNY,310,99,6.48,12,73
+1028,3,University at Buffalo SUNY,302,100,6.6,0,63
+1029,3,University at Buffalo SUNY,315,112,8.3,12,81
+1030,3,University at Buffalo SUNY,309,100,7.2,1,74
+1031,3,University at Buffalo SUNY,315,100,7.54,0,76
+1032,3,University at Buffalo SUNY,306,112,6.64,20,64
+1033,3,University at Buffalo SUNY,298,90,9.12,24,68
+1034,4,Syracuse University,304,98,7.81,28,67.75
+1035,4,Syracuse University,311,111,5.48,40,70
+1036,4,Syracuse University,320,113,7.9,17,74
+1037,4,Syracuse University,308,90,8.16,43,70.5
+1038,4,Syracuse University,299,88,7.8,30,47
+1039,4,Syracuse University,306,96,5.7,15,60
+1040,4,Syracuse University,303,97,7,16,67.75
+1041,4,Syracuse University,300,88,5.5,29,55
+1042,4,Syracuse University,303,87,6.8,8,64.5
+1043,4,Syracuse University,315,112,8.24,1,80
+1044,4,Syracuse University,322,107,6.947,28,70
+1045,4,Syracuse University,296,91,6.7,20,47
+1046,4,Syracuse University,308,101,7.79,16,67.75
+1047,4,Syracuse University,302,90,7.75,6,67.75
+1048,4,Syracuse University,306,98,6.922,8,64.5
+1049,4,Syracuse University,308,93,7.8,26,67.75
+1050,4,Syracuse University,312,113,10,0,87
+1051,4,Syracuse University,311,106,6.323,19,70
+1052,4,Syracuse University,297,81,5.7,46,47
+1053,4,Syracuse University,306,97,6.8,42,64.5
+1054,4,Syracuse University,317,98,5.87,1,65
+1055,4,Syracuse University,300,88,8.18,24,70.5
+1056,4,Syracuse University,308,99,6,19,64.5
+1057,4,Syracuse University,310,107,7.39,14,73.25
+1058,4,Syracuse University,314,106,9.15,0,85
+1059,4,Syracuse University,302,101,6,30,64.5
+1060,4,Syracuse University,303,94,7.37,27,67.75
+1061,4,Syracuse University,301,100,7.512,60,67.75
+1062,4,Syracuse University,310,96,7.47,36,73.25
+1063,4,Syracuse University,308,95,3.5,3,40
+1064,4,Syracuse University,302,100,7.3,1,67.75
+1065,4,Syracuse University,304,96,7.87,12,67.75
+1066,4,Syracuse University,307,111,7.6,0,67.75
+1067,4,Syracuse University,307,94,7.4,37,67.75
+1068,4,Syracuse University,312,104,8.7,20,84
+1069,4,Syracuse University,319,114,6.71,14,70
+1070,4,Syracuse University,300,93,6.44,82,64.5
+1071,4,Syracuse University,302,86,6.037,27,64.5
+1072,4,Syracuse University,308,89,7.5,32,67.75
+1073,4,Syracuse University,308,102,7.09,0,67.75
+1074,4,Syracuse University,300,99,7.14,39,67.75
+1075,4,Syracuse University,309,100,7.41,17,67.75
+1076,4,Syracuse University,298,100,5.243,6,47
+1077,4,Syracuse University,302,81,5.199,42,55
+1078,4,Syracuse University,305,100,6.82,3,64.5
+1079,4,Syracuse University,302,97,6,27,64.5
+1080,4,Syracuse University,299,97,6.73,48,47
+1081,4,Syracuse University,307,98,4.9,31,44
+1082,4,Syracuse University,297,99,5.081,24,47
+1083,4,Syracuse University,305,98,4.522,17,43
+1084,4,Syracuse University,296,93,5.93,64,47
+1085,4,Syracuse University,300,90,7,12,67.75
+1086,4,Syracuse University,297,88,7.6,20,47
+1087,4,Syracuse University,323,110,8.55,0,80
+1088,4,Syracuse University,302,98,8.22,8,70.5
+1089,4,Syracuse University,295,93,4.9,41,47
+1090,4,Syracuse University,293,82,5,22,47
+1091,4,Syracuse University,281,86,6.9,60,47
+1092,4,Syracuse University,295,69,6.7,24,47
+1093,4,Syracuse University,312,106,7.9,0,73.25
+1094,4,Syracuse University,305,98,8.11,0,70.5
+1095,4,Syracuse University,296,81,7.37,43,47
+1096,4,Syracuse University,316,106,6.45,28,70
+1097,4,Syracuse University,308,100,6.47,38,64.5
+1098,4,Syracuse University,319,100,5.747,12,65
+1099,4,Syracuse University,303,103,9,2,70.5
+1100,3,"Texas A&M; University, College Station",316,102,7.58,42,80
+1101,3,"Texas A&M; University, College Station",314,100,7.4,24,80
+1102,3,"Texas A&M; University, College Station",312,98,7.28,31,80
+1103,3,"Texas A&M; University, College Station",309,112,8,0,74.5
+1104,3,"Texas A&M; University, College Station",317,103,7.4,60,81
+1105,3,"Texas A&M; University, College Station",309,103,6.4,0,74.5
+1106,3,"Texas A&M; University, College Station",309,103,6.91,13,74.5
+1107,3,"Texas A&M; University, College Station",315,103,6.1,11,75
+1108,3,"Texas A&M; University, College Station",321,104,6.6,76,83.75
+1109,3,"Texas A&M; University, College Station",320,116,7.7,0,84
+1110,3,"Texas A&M; University, College Station",318,112,7.53,16,80
+1111,3,"Texas A&M; University, College Station",315,100,6.7,43,75
+1112,3,"Texas A&M; University, College Station",324,104,8.49,29,86
+1113,3,"Texas A&M; University, College Station",316,102,7.99,13,80
+1114,3,"Texas A&M; University, College Station",327,110,7.43,20,86
+1115,3,"Texas A&M; University, College Station",322,112,6.48,31,83.75
+1116,3,"Texas A&M; University, College Station",317,100,7.543,43,80
+1117,3,"Texas A&M; University, College Station",317,114,8.02,21,84.75
+1118,3,"Texas A&M; University, College Station",320,117,5.442,30,82
+1119,3,"Texas A&M; University, College Station",318,103,7.34,1,80
+1120,3,"Texas A&M; University, College Station",322,110,7.404,27,83.25
+1121,3,"Texas A&M; University, College Station",313,96,7.9,24,80
+1122,3,"Texas A&M; University, College Station",314,96,7.3,6,80
+1123,3,"Texas A&M; University, College Station",309,98,8.5,16,77.5
+1124,3,"Texas A&M; University, College Station",320,111,7.98,30,83.25
+1125,3,"Texas A&M; University, College Station",330,108,7.2,12,89
+1126,3,"Texas A&M; University, College Station",312,104,8.7,20,84.75
+1127,3,"Texas A&M; University, College Station",325,116,8.48,2,85.75
+1128,3,"Texas A&M; University, College Station",309,94,8.3,60,77.5
+1129,3,"Texas A&M; University, College Station",296,91,6.7,20,70
+1130,3,"Texas A&M; University, College Station",309,112,7.95,3,76
+1131,3,"Texas A&M; University, College Station",307,103,8,34,76
+1132,3,"Texas A&M; University, College Station",317,96,8,34,84.75
+1133,3,"Texas A&M; University, College Station",315,106,6.077,30,75
+1134,3,"Texas A&M; University, College Station",306,104,7.5,34,76
+1135,3,"Texas A&M; University, College Station",317,101,6.2,18,75
+1136,3,"Texas A&M; University, College Station",315,104,6.97,18,75
+1137,3,"Texas A&M; University, College Station",312,110,8.6,24,84.75
+1138,3,"Texas A&M; University, College Station",317,108,8.2,0,84.75
+1139,3,"Texas A&M; University, College Station",313,101,6.32,42,75
+1140,3,"Texas A&M; University, College Station",307,105,6.7,54,76
+1141,3,"Texas A&M; University, College Station",311,107,6.3,16,75
+1142,3,"Texas A&M; University, College Station",308,101,7.3,9,76
+1143,3,"Texas A&M; University, College Station",305,100,9,43,78
+1144,3,"Texas A&M; University, College Station",319,98,8.045,7,84.75
+1145,3,"Texas A&M; University, College Station",318,106,6.7,60,75
+1146,3,"Texas A&M; University, College Station",306,100,5.61,40,70
+1147,3,"Texas A&M; University, College Station",305,95,8.54,34,76
+1148,3,"Texas A&M; University, College Station",316,98,8.47,36,84.75
+1149,3,"Texas A&M; University, College Station",300,103,9,30,77
+1150,3,"Texas A&M; University, College Station",308,104,8.2,23,76
+1151,3,"Texas A&M; University, College Station",308,98,6,25,76
+1152,3,"Texas A&M; University, College Station",320,108,6,41,83.75
+1153,3,"Texas A&M; University, College Station",303,103,9,2,78
+1154,3,"Texas A&M; University, College Station",306,102,6,26,76
+1155,3,"Texas A&M; University, College Station",315,112,8.3,12,84.75
+1156,3,"Texas A&M; University, College Station",310,106,7.92,35,80
+1157,3,"Texas A&M; University, College Station",319,90,5.8,0,70
+1158,3,"Texas A&M; University, College Station",329,110,6.5,6,84
+1159,5,"University of California, Irvine",332,117,7.33,0,39
+1160,5,"University of California, Irvine",313,107,7.1,31,60
+1161,5,"University of California, Irvine",317,96,8,20,60
+1162,5,"University of California, Irvine",316,109,6.64,20,35
+1163,5,"University of California, Irvine",325,109,8.35,0,51
+1164,5,"University of California, Irvine",323,103,7,30,41
+1165,5,"University of California, Irvine",318,107,8.07,25,37
+1166,5,"University of California, Irvine",317,110,9.12,24,39
+1167,5,"University of California, Irvine",321,111,5.2,26,35
+1168,5,"University of California, Irvine",315,112,8.3,12,60
+1169,5,"University of California, Irvine",306,102,6,26,35
+1170,5,"University of California, Irvine",315,100,7.54,0,60
+1171,5,"University of California, Irvine",326,99,8.322,12,49
+1172,5,"University of California, Irvine",278,79,6.125,3,35
+1173,2,University of Cincinnati,319,114,6.71,14,71
+1174,2,University of Cincinnati,309,106,9.24,40,86
+1175,2,University of Cincinnati,309,101,6.5,27,57
+1176,2,University of Cincinnati,322,104,8.3,0,93
+1177,2,University of Cincinnati,302,98,8.4,41,63
+1178,2,University of Cincinnati,319,101,6.57,15,59
+1179,2,University of Cincinnati,311,106,6.323,19,51
+1180,2,University of Cincinnati,319,114,6.71,14,61
+1181,2,University of Cincinnati,314,106,7.63,6,86
+1182,2,University of Cincinnati,304,98,7.4,30,71
+1183,2,University of Cincinnati,317,111,8.16,20,88
+1184,2,University of Cincinnati,323,97,5.7,49,61
+1185,2,University of Cincinnati,307,99,6.2,16,56
+1186,2,University of Cincinnati,324,104,8.49,29,93
+1187,2,University of Cincinnati,307,98,7.61,37,75
+1188,2,University of Cincinnati,311,98,6.34,18,69
+1189,2,University of Cincinnati,317,109,6.34,13,73
+1190,2,University of Cincinnati,316,105,7.4,45,79
+1191,2,University of Cincinnati,310,112,7.3,38,75
+1192,2,University of Cincinnati,308,105,8,60,83
+1193,2,University of Cincinnati,311,98,7,32,79
+1194,2,University of Cincinnati,320,117,5.442,30,61
+1195,2,University of Cincinnati,307,97,6,0,59
+1196,2,University of Cincinnati,313,98,8.92,44,87
+1197,2,University of Cincinnati,309,98,6.64,36,69
+1198,2,University of Cincinnati,310,99,6.6,38,71
+1199,2,University of Cincinnati,311,111,5.48,40,64
+1200,2,University of Cincinnati,312,104,8.7,20,88
+1201,2,University of Cincinnati,311,91,7.594,60,84
+1202,2,University of Cincinnati,315,96,7.09,25,76
+1203,2,University of Cincinnati,315,106,6.077,30,71
+1204,2,University of Cincinnati,321,112,5.8,60,59
+1205,2,University of Cincinnati,316,103,7.601,13,80
+1206,2,University of Cincinnati,320,113,7.9,17,86
+1207,2,University of Cincinnati,326,113,6.35,44,74
+1208,2,University of Cincinnati,313,109,7.674,25,83
+1209,2,University of Cincinnati,309,100,8.61,39,84
+1210,2,University of Cincinnati,311,100,7.2,25,83
+1211,2,University of Cincinnati,317,110,6.93,25,74
+1212,2,University of Cincinnati,309,96,7.41,17,76
+1213,2,University of Cincinnati,319,98,8.045,7,91
+1214,2,University of Cincinnati,313,100,7.65,0,76
+1215,2,University of Cincinnati,306,103,5.817,27,53
+1216,2,University of Cincinnati,300,103,9,30,79
+1217,2,University of Cincinnati,323,110,8.55,0,96
+1218,2,University of Cincinnati,305,98,6.912,34,64
+1219,2,University of Cincinnati,307,94,6.43,40,62
+1220,2,University of Cincinnati,315,112,8.24,1,81
+1221,2,University of Cincinnati,329,115,6.1,0,76
+1222,2,University of Cincinnati,306,95,6,20,62
+1223,2,University of Cincinnati,304,104,8.7,16,71
+1224,2,University of Cincinnati,296,91,6.7,20,47
+1225,2,University of Cincinnati,306,94,7.6,35,59
+1226,2,University of Cincinnati,297,90,8.9,26,63
+1227,2,University of Cincinnati,304,98,7.4,30,64
+1228,2,University of Cincinnati,314,100,8.5,15,86
+1229,2,University of Cincinnati,310,106,7.92,35,81
+1230,2,University of Cincinnati,322,113,6.8,30,77
+1231,2,University of Cincinnati,321,114,7.58,38,88
+1232,2,University of Cincinnati,299,98,7.8,18,74
+1233,2,University of Cincinnati,290,98,7.1,8,69
+1234,5,"University of California, Los Angeles",311,102,6.9,85,35
+1235,5,"University of California, Los Angeles",302,98,5.38,13,35
+1236,5,"University of California, Los Angeles",311,100,0,0,35
+1237,5,"University of California, Los Angeles",290,80,6,0,35
+1238,5,"University of California, Los Angeles",285,96,6.8,0,35
+1239,5,"University of California, Los Angeles",309,106,6.3,0,35
+1240,5,"University of California, Los Angeles",320,111,4.5,0,35
+1241,5,"University of California, Los Angeles",312,96,6,30,35
+1242,5,"University of California, Los Angeles",300,82,8,0,35
+1243,5,"University of California, Los Angeles",322,100,7.72,1,60
+1244,5,"University of California, Los Angeles",321,113,8.83,20,40
+1245,5,"University of California, Los Angeles",315,112,8.3,12,51
+1246,5,"University of California, Los Angeles",293,82,5,22,35
+1247,5,"University of California, Los Angeles",316,112,7,44,60
+1248,5,"University of California, Los Angeles",326,99,8.322,12,40
+1249,5,"University of California, Los Angeles",318,96,7.4,34,60
+1250,4,University of Florida,313,100,8.02,0,35
+1251,4,University of Florida,306,104,7.522,20,35
+1252,4,University of Florida,304,100,7.78,15,35
+1253,4,University of Florida,326,113,7.75,6,40
+1254,4,University of Florida,313,98,7.1,32,35
+1255,4,University of Florida,304,100,5.9,35,35
+1256,4,University of Florida,305,102,8.33,3,35
+1257,4,University of Florida,306,96,8.2,0,35
+1258,4,University of Florida,306,100,7.3,17,35
+1259,4,University of Florida,309,94,6.45,13,35
+1260,4,University of Florida,307,105,6,0,35
+1261,4,University of Florida,293,86,7.69,17,35
+1262,4,University of Florida,308,100,5.9,29,35
+1263,4,University of Florida,303,95,6.9,12,35
+1264,4,University of Florida,304,111,6.5,12,35
+1265,4,University of Florida,303,100,6.79,19,35
+1266,4,University of Florida,321,103,8.3,16,76
+1267,4,University of Florida,306,86,6.92,47,35
+1268,4,University of Florida,303,95,6.75,15,35
+1269,4,University of Florida,302,88,6,5,35
+1270,4,University of Florida,326,111,5.51,42,35
+1271,4,University of Florida,305,107,8,18,35
+1272,4,University of Florida,311,98,7.31,25,35
+1273,4,University of Florida,309,100,8.61,39,35
+1274,4,University of Florida,304,92,7.2,16,35
+1275,4,University of Florida,302,107,8.25,13,35
+1276,4,University of Florida,297,99,5.081,24,35
+1277,4,University of Florida,309,107,8.21,14,35
+1278,4,University of Florida,312,105,5.986,18,35
+1279,4,University of Florida,302,98,8.4,41,35
+1280,4,University of Florida,306,104,7.16,18,35
+1281,4,University of Florida,320,111,5.4,0,35
+1282,4,University of Florida,309,95,6.3,23,35
+1283,4,University of Florida,303,106,7.54,0,35
+1284,4,University of Florida,320,108,6,20,39
+1285,4,University of Florida,302,96,5.65,48,35
+1286,4,University of Florida,308,97,8.25,41,35
+1287,4,University of Florida,302,98,7.85,0,35
+1288,4,University of Florida,292,117,6.41,5,35
+1289,4,University of Florida,315,96,7.09,25,39.75
+1290,4,University of Florida,316,112,6.86,5,36
+1291,4,University of Florida,330,110,8.4,30,81
+1292,4,University of Florida,290,97,5,30,35
+1293,4,University of Florida,311,98,5.2,0,35
+1294,4,University of Florida,303,101,8.91,11,46
+1295,4,University of Florida,311,112,5.396,0,35
+1296,4,University of Florida,301,108,6.143,24,35
+1297,4,University of Florida,313,109,8.34,3,35
+1298,4,University of Florida,305,97,6.5,26,35
+1299,4,University of Florida,305,90,6,31,35
+1300,4,University of Florida,315,104,7.32,13,35
+1301,4,University of Florida,298,80,6.64,34,35
+1302,4,University of Florida,310,100,8.98,35,63
+1303,4,University of Florida,302,98,6.8,40,35
+1304,4,University of Florida,306,102,6,26,35
+1305,4,University of Florida,293,82,5,22,35
+1306,4,University of Florida,302,98,6.97,60,35
+1307,4,University of Florida,296,90,5.9,0,35
+1308,4,University of Florida,316,106,6.45,28,37
+1309,4,University of Florida,290,98,7.1,8,35
+1310,3,University of Illinois at Chicago,308,92,5.833,60,36
+1311,3,University of Illinois at Chicago,302,98,6.8,40,36
+1312,3,University of Illinois at Chicago,329,114,7.2,51,43
+1313,3,University of Illinois at Chicago,309,93,7.3,0,36
+1314,3,University of Illinois at Chicago,303,97,7,16,36
+1315,3,University of Illinois at Chicago,318,102,6.2,32,36
+1316,3,University of Illinois at Chicago,315,112,8.24,1,41
+1317,3,University of Illinois at Chicago,322,107,6.947,28,50
+1318,3,University of Illinois at Chicago,308,101,7.79,16,60
+1319,3,University of Illinois at Chicago,314,99,7.7,55,55
+1320,3,University of Illinois at Chicago,313,100,6,12,55
+1321,3,University of Illinois at Chicago,316,112,8.87,18,43
+1322,3,University of Illinois at Chicago,307,107,6.75,0,45
+1323,3,University of Illinois at Chicago,306,96,8.2,0,46
+1324,3,University of Illinois at Chicago,302,93,7.79,30,50
+1325,3,University of Illinois at Chicago,304,98,7.4,30,50
+1326,3,University of Illinois at Chicago,307,99,6.2,16,50
+1327,3,University of Illinois at Chicago,304,85,7.04,24,50
+1328,3,University of Illinois at Chicago,306,96,6.8,60,50
+1329,3,University of Illinois at Chicago,301,93,7.85,20,50
+1330,3,University of Illinois at Chicago,310,98,6.619,27,50
+1331,3,University of Illinois at Chicago,320,117,5.442,30,50
+1332,3,University of Illinois at Chicago,306,104,7.5,34,50
+1333,3,University of Illinois at Chicago,303,99,5.702,58,40
+1334,3,University of Illinois at Chicago,309,94,6.45,13,50
+1335,3,University of Illinois at Chicago,309,107,5.4,0,50
+1336,3,University of Illinois at Chicago,304,88,5.936,47,40
+1337,3,University of Illinois at Chicago,310,107,7.39,14,50
+1338,3,University of Illinois at Chicago,312,96,6.99,9,50
+1339,3,University of Illinois at Chicago,313,96,7.9,24,50
+1340,3,University of Illinois at Chicago,317,101,6.2,18,50
+1341,3,University of Illinois at Chicago,310,96,5.14,36,40
+1342,3,University of Illinois at Chicago,305,109,5.977,29,40
+1343,3,University of Illinois at Chicago,315,104,6.97,18,50
+1344,3,University of Illinois at Chicago,304,96,7.87,12,50
+1345,3,University of Illinois at Chicago,312,98,7.56,20,50
+1346,3,University of Illinois at Chicago,309,96,6.03,28,50
+1347,3,University of Illinois at Chicago,300,93,6.44,82,50
+1348,3,University of Illinois at Chicago,303,91,7.7,1,50
+1349,3,University of Illinois at Chicago,303,81,7,37,50
+1350,3,University of Illinois at Chicago,291,85,6.915,41,50
+1351,3,University of Illinois at Chicago,300,92,6.739,44,50
+1352,3,University of Illinois at Chicago,297,90,8.9,26,47
+1353,3,University of Illinois at Chicago,302,86,6.037,27,45
+1354,3,University of Illinois at Chicago,296,93,5.93,64,40
+1355,3,University of Illinois at Chicago,303,98,7.2,0,60
+1356,3,University of Illinois at Chicago,301,84,7.67,50,58
+1357,3,University of Illinois at Chicago,300,88,8.18,24,55
+1358,3,University of Illinois at Chicago,301,96,7.13,0,55
+1359,3,University of Illinois at Chicago,305,94,6.66,2,55
+1360,3,University of Illinois at Chicago,301,89,5.45,48,40
+1361,3,University of Illinois at Chicago,311,98,5.2,0,40
+1362,3,University of Illinois at Chicago,304,97,6.706,46,55
+1363,3,University of Illinois at Chicago,310,94,4.9,0,40
+1364,3,University of Illinois at Chicago,309,94,4.9,6,40
+1365,3,University of Illinois at Chicago,309,92,7.7,0,60
+1366,3,University of Illinois at Chicago,303,95,7,20,60
+1367,3,University of Illinois at Chicago,310,87,8.98,35,49
+1368,3,University of Illinois at Chicago,293,82,5,22,40
+1369,3,University of Illinois at Chicago,315,112,8.3,12,55
+1370,3,University of Illinois at Chicago,304,95,6.2,35,60
+1371,3,University of Illinois at Chicago,291,98,6.7,9,55
+1372,3,University of Illinois at Chicago,322,113,6.8,30,65
+1373,2,University of Iowa,311,90,8.83,2,77
+1374,2,University of Iowa,307,95,7.5,0,60
+1375,2,University of Iowa,313,95,7.5,48,60
+1376,2,University of Iowa,296,90,5.9,0,50
+1377,2,University of Iowa,290,98,7.1,8,50
+1378,2,University of Iowa,299,101,9.1,14,60
+1379,4,"University of Maryland, College Park",301,96,8.4,29,45
+1380,4,"University of Maryland, College Park",311,98,7.74,25,45.5
+1381,4,"University of Maryland, College Park",308,106,8.42,9,45
+1382,4,"University of Maryland, College Park",300,103,9,30,47
+1383,4,"University of Maryland, College Park",303,97,7,16,45.5
+1384,4,"University of Maryland, College Park",305,109,8.1,25,45
+1385,4,"University of Maryland, College Park",318,102,6.2,32,45.5
+1386,4,"University of Maryland, College Park",318,108,6.54,5,45.5
+1387,4,"University of Maryland, College Park",305,100,9,43,47
+1388,4,"University of Maryland, College Park",324,109,6.2,40,45.5
+1389,4,"University of Maryland, College Park",322,114,5.9,29,45.5
+1390,4,"University of Maryland, College Park",307,105,8.02,0,45
+1391,4,"University of Maryland, College Park",317,103,7.4,60,45.5
+1392,4,"University of Maryland, College Park",313,101,7.514,48,45.5
+1393,4,"University of Maryland, College Park",310,98,6.51,6,45.5
+1394,4,"University of Maryland, College Park",310,106,7.06,42,45.5
+1395,4,"University of Maryland, College Park",306,94,7.6,35,45.5
+1396,4,"University of Maryland, College Park",310,107,7.39,14,45.5
+1397,4,"University of Maryland, College Park",314,106,9.15,0,45
+1398,4,"University of Maryland, College Park",301,96,7.512,60,45.5
+1399,4,"University of Maryland, College Park",313,96,7.9,24,45.5
+1400,4,"University of Maryland, College Park",317,101,6.2,18,45.5
+1401,4,"University of Maryland, College Park",311,98,7.31,25,45.5
+1402,4,"University of Maryland, College Park",313,104,6.5,1,45.5
+1403,4,"University of Maryland, College Park",312,98,7.07,14,45.5
+1404,4,"University of Maryland, College Park",315,96,6.93,2,45.5
+1405,4,"University of Maryland, College Park",315,108,7.83,8,45.5
+1406,4,"University of Maryland, College Park",317,104,7.02,35,45.5
+1407,4,"University of Maryland, College Park",317,108,8.2,0,45
+1408,4,"University of Maryland, College Park",316,112,8.48,21,47
+1409,4,"University of Maryland, College Park",312,105,5.986,18,45.5
+1410,4,"University of Maryland, College Park",307,105,6.7,54,45.5
+1411,4,"University of Maryland, College Park",316,103,7.601,13,45.5
+1412,4,"University of Maryland, College Park",310,95,7,6,45.5
+1413,4,"University of Maryland, College Park",315,96,6.5,0,45.5
+1414,4,"University of Maryland, College Park",307,108,7,0,45.5
+1415,4,"University of Maryland, College Park",318,104,6.4,15,45.5
+1416,4,"University of Maryland, College Park",308,102,7.09,0,45.5
+1417,4,"University of Maryland, College Park",304,96,7.87,12,45.5
+1418,4,"University of Maryland, College Park",304,112,8.25,0,45
+1419,4,"University of Maryland, College Park",313,112,5,43,45.5
+1420,4,"University of Maryland, College Park",309,95,6.3,23,45.5
+1421,4,"University of Maryland, College Park",313,102,6.68,16,45.5
+1422,4,"University of Maryland, College Park",309,99,6.1,30,45.5
+1423,4,"University of Maryland, College Park",307,100,5.8,48,45.5
+1424,4,"University of Maryland, College Park",311,96,7.512,27,45.5
+1425,4,"University of Maryland, College Park",303,91,6.1,35,45.5
+1426,4,"University of Maryland, College Park",311,98,8.84,27,45
+1427,4,"University of Maryland, College Park",312,97,6.167,18,45.5
+1428,4,"University of Maryland, College Park",309,88,7.69,16,45.5
+1429,4,"University of Maryland, College Park",314,100,6.4,61,45.5
+1430,4,"University of Maryland, College Park",307,100,6.2,53,45.5
+1431,4,"University of Maryland, College Park",305,109,6.045,18,45.5
+1432,4,"University of Maryland, College Park",314,104,5.3,53,45.5
+1433,4,"University of Maryland, College Park",303,95,7,20,45.5
+1434,4,"University of Maryland, College Park",310,106,7.92,35,45.5
+1435,4,"University of Maryland, College Park",312,106,7.9,0,45.5
+1436,4,"University of Maryland, College Park",314,100,8.5,15,45
+1437,4,"University of Maryland, College Park",321,114,7.58,38,45.5
+1438,2,University of North Carolina at Charlotte,304,106,5.75,4,65.5
+1439,2,University of North Carolina at Charlotte,309,106,9.24,40,80
+1440,2,University of North Carolina at Charlotte,302,98,6,29,65.5
+1441,2,University of North Carolina at Charlotte,308,90,8.26,15,75
+1442,2,University of North Carolina at Charlotte,299,88,7.95,5,65.5
+1443,2,University of North Carolina at Charlotte,302,93,7.79,30,65.5
+1444,2,University of North Carolina at Charlotte,304,111,6.5,12,65.5
+1445,2,University of North Carolina at Charlotte,302,81,5.199,42,65.5
+1446,2,University of North Carolina at Charlotte,287,98,6.85,32,65.5
+1447,2,University of North Carolina at Charlotte,292,92,5.9,0,65.5
+1448,2,University of North Carolina at Charlotte,297,97,4.8,0,65.5
+1449,2,University of North Carolina at Charlotte,304,104,5.8,0,65.5
+1450,2,University of North Carolina at Charlotte,304,93,7.3,60,65.5
+1451,2,University of North Carolina at Charlotte,301,96,7.44,0,65.5
+1452,2,University of North Carolina at Charlotte,305,97,6.23,4,65.5
+1453,2,University of North Carolina at Charlotte,303,85,6.26,0,66.75
+1454,2,University of North Carolina at Charlotte,294,93,6.5,2,66.75
+1455,2,University of North Carolina at Charlotte,299,95,5.9,42,66.75
+1456,2,University of North Carolina at Charlotte,299,92,5.28,12,66.75
+1457,2,University of North Carolina at Charlotte,306,97,8.07,26,45
+1458,2,University of North Carolina at Charlotte,307,96,6.9,15,66.75
+1459,2,University of North Carolina at Charlotte,310,96,5.14,36,66.75
+1460,2,University of North Carolina at Charlotte,308,84,6.35,43,66.75
+1461,2,University of North Carolina at Charlotte,297,94,8.5,27,37
+1462,2,University of North Carolina at Charlotte,298,91,6.43,26,66.75
+1463,2,University of North Carolina at Charlotte,299,96,8.1,30,36
+1464,2,University of North Carolina at Charlotte,310,90,6.6,6,66.75
+1465,2,University of North Carolina at Charlotte,306,96,5.7,15,66.75
+1466,2,University of North Carolina at Charlotte,303,95,6.9,12,66.75
+1467,2,University of North Carolina at Charlotte,301,98,7.925,50,66.75
+1468,2,University of North Carolina at Charlotte,305,95,6.2,10,66.75
+1469,2,University of North Carolina at Charlotte,302,98,5.38,13,67.75
+1470,2,University of North Carolina at Charlotte,310,111,5.1,28,67.75
+1471,2,University of North Carolina at Charlotte,305,98,8.35,19,36
+1472,2,University of North Carolina at Charlotte,300,107,5,10,67.75
+1473,2,University of North Carolina at Charlotte,309,100,8.61,39,69
+1474,2,University of North Carolina at Charlotte,291,86,6.2,27,67.75
+1475,2,University of North Carolina at Charlotte,293,86,7.69,17,67.75
+1476,2,University of North Carolina at Charlotte,301,88,8.6,55,48
+1477,2,University of North Carolina at Charlotte,310,96,7.3,2,36
+1478,2,University of North Carolina at Charlotte,312,113,10,0,61
+1479,2,University of North Carolina at Charlotte,302,83,6.3,45,67.75
+1480,2,University of North Carolina at Charlotte,293,98,6.1,0,67.75
+1481,2,University of North Carolina at Charlotte,303,93,5.91,2,67.75
+1482,2,University of North Carolina at Charlotte,295,91,7.19,21,67.75
+1483,2,University of North Carolina at Charlotte,297,83,6.15,1,67.75
+1484,2,University of North Carolina at Charlotte,310,90,6.5,18,67.75
+1485,2,University of North Carolina at Charlotte,305,90,6.89,19,67.75
+1486,2,University of North Carolina at Charlotte,305,101,7.4,0,36
+1487,2,University of North Carolina at Charlotte,313,90,5.4,18,67.75
+1488,2,University of North Carolina at Charlotte,300,86,7.4,16,36
+1489,2,University of North Carolina at Charlotte,290,86,8.25,48,45
+1490,2,University of North Carolina at Charlotte,300,84,5.7,42,67.75
+1491,2,University of North Carolina at Charlotte,307,93,5.5,30,67.75
+1492,2,University of North Carolina at Charlotte,302,106,8.39,24,40
+1493,2,University of North Carolina at Charlotte,309,93,5.4,36,67.75
+1494,2,University of North Carolina at Charlotte,296,90,5.9,0,67.75
+1495,2,University of North Carolina at Charlotte,296,86,7,36,67.75
+1496,2,University of North Carolina at Charlotte,298,90,9.12,24,40
+1497,2,University of North Carolina at Charlotte,290,98,7.1,8,67.75
+1498,2,University of North Carolina at Charlotte,309,104,6.5,0,67.75
+1499,2,University of North Carolina at Charlotte,303,103,9,2,40
+1500,5,University of Pennsylvania,290,80,6,0,35
+1501,5,University of Pennsylvania,311,106,5.5,55,35
+1502,5,University of Pennsylvania,301,98,6.35,10,35
+1503,5,University of Pennsylvania,317,104,8,10,45
+1504,5,University of Pennsylvania,317,108,5.93,0,40
+1505,5,University of Pennsylvania,310,106,9.5,24,45
+1506,5,University of Pennsylvania,315,112,7.02,4,39
+1507,5,University of Pennsylvania,293,82,5,22,35
+1508,5,University of Pennsylvania,315,104,8.54,30,45
+1509,5,University of Pennsylvania,303,103,9,2,35
+1510,5,University of Pennsylvania,314,103,7.3,32,40
+1511,5,University of Pennsylvania,290,91,7.3,48,35
+1512,3,University of Texas at Dallas,306,85,8.52,25,61
+1513,3,University of Texas at Dallas,298,80,5.7,30,45
+1514,3,University of Texas at Dallas,307,85,6.8,14,47.75
+1515,3,University of Texas at Dallas,307,107,8,18,51
+1516,3,University of Texas at Dallas,304,101,5.991,26,45.25
+1517,3,University of Texas at Dallas,306,112,7.46,19,50
+1518,3,University of Texas at Dallas,311,108,7.4,6,50
+1519,3,University of Texas at Dallas,295,84,5.95,44,47.75
+1520,3,University of Texas at Dallas,301,98,6.61,23,50
+1521,3,University of Texas at Dallas,309,97,6.475,45,50
+1522,3,University of Texas at Dallas,317,105,6.33,57,50
+1523,3,University of Texas at Dallas,306,94,6,36,50
+1524,3,University of Texas at Dallas,311,108,7.8,0,50
+1525,3,University of Texas at Dallas,310,90,7.31,36,50
+1526,3,University of Texas at Dallas,305,95,7.27,13,50
+1527,3,University of Texas at Dallas,313,110,5.3,2,47
+1528,3,University of Texas at Dallas,308,98,7.6,20,50
+1529,3,University of Texas at Dallas,300,87,5.8,30,47.75
+1530,3,University of Texas at Dallas,313,100,6,12,50
+1531,3,University of Texas at Dallas,306,96,6.8,60,50
+1532,3,University of Texas at Dallas,310,115,6.3,16,50
+1533,3,University of Texas at Dallas,306,87,8.2,8,56
+1534,3,University of Texas at Dallas,310,93,8.26,19,59
+1535,3,University of Texas at Dallas,308,98,6.94,36,47.75
+1536,3,University of Texas at Dallas,297,101,5.29,3,40
+1537,3,University of Texas at Dallas,309,101,6.712,25,47.75
+1538,3,University of Texas at Dallas,305,104,6.24,0,47
+1539,3,University of Texas at Dallas,298,101,5.243,6,40
+1540,3,University of Texas at Dallas,316,96,7.1,0,60
+1541,3,University of Texas at Dallas,312,98,7.56,20,60
+1542,3,University of Texas at Dallas,299,97,6.73,48,50
+1543,3,University of Texas at Dallas,295,84,6.4,60,47.75
+1544,3,University of Texas at Dallas,309,117,6.5,12,50
+1545,3,University of Texas at Dallas,285,86,6.2,12,47.75
+1546,3,University of Texas at Dallas,297,94,8.5,27,51
+1547,3,University of Texas at Dallas,297,86,7.15,0,50
+1548,3,University of Texas at Dallas,297,89,6.4,26,50
+1549,3,University of Texas at Dallas,300,98,7.26,6,50
+1550,3,University of Texas at Dallas,304,98,6.15,45,50
+1551,3,University of Texas at Dallas,299,86,7.52,4,50
+1552,3,University of Texas at Dallas,305,86,6.9,36,50
+1553,3,University of Texas at Dallas,302,102,6.11,34,50
+1554,3,University of Texas at Dallas,301,106,5.6,37,50
+1555,3,University of Texas at Dallas,308,106,6.95,22,50
+1556,3,University of Texas at Dallas,306,102,6.7,40,47.75
+1557,3,University of Texas at Dallas,300,86,7.9,36,50
+1558,3,University of Texas at Dallas,301,85,5.7,37,50
+1559,3,University of Texas at Dallas,306,103,8.38,41,58
+1560,3,University of Texas at Dallas,309,105,5.7,24,50
+1561,3,University of Texas at Dallas,310,99,6.48,12,47.75
+1562,3,University of Texas at Dallas,304,95,6.2,35,50
+1563,3,University of Texas at Dallas,317,102,4.9,12,50
+1564,3,University of Texas at Dallas,311,97,5.73,117,50
+1565,3,University of Texas at Dallas,315,106,5.5,30,50
+1566,3,University of Texas at Dallas,305,69,9,49,76
+1567,3,University of Texas at Dallas,312,103,7,17,55
+1568,3,University of Texas at Dallas,301,98,6.3,36,55
+1569,3,University of Texas at Dallas,288,78,6,36,40
+1570,3,University of Texas at Dallas,309,93,6,18,55
+1571,3,University of Texas at Dallas,315,98,9,7,79
+1572,3,University of Texas at Dallas,303,93,8.27,21,69
+1573,3,University of Texas at Dallas,307,96,5.917,30,55
+1574,3,University of Texas at Dallas,310,100,4.9,0,38
+1575,3,University of Texas at Dallas,306,109,8.34,3,72
+1576,3,University of Texas at Arlington,289,94,6.5,30,43
+1577,3,University of Texas at Arlington,292,82,6.1,44,45
+1578,3,University of Texas at Arlington,307,98,5.87,9,35.5
+1579,3,University of Texas at Arlington,294,89,5.3,34,35.5
+1580,3,University of Texas at Arlington,292,102,7.32,0,49
+1581,3,University of Texas at Arlington,298,101,7.12,1,48
+1582,3,University of Texas at Arlington,297,98,6.08,0,38
+1583,3,University of Texas at Arlington,295,80,6.06,10,36
+1584,3,University of Texas at Arlington,297,86,7.63,29,49
+1585,3,University of Texas at Arlington,297,105,7.56,3,49
+1586,3,University of Texas at Arlington,294,106,5.5,7,35.5
+1587,3,University of Texas at Arlington,305,105,6.9,3,40
+1588,3,University of Texas at Arlington,300,92,6.739,44,40
+1589,3,University of Texas at Arlington,306,98,6.698,48,39
+1590,3,University of Texas at Arlington,301,92,5.7,5,35.5
+1591,3,University of Texas at Arlington,292,89,7.13,38,43
+1592,3,University of Texas at Arlington,292,87,5.6,18,35.5
+1593,3,University of Texas at Arlington,295,86,7.4,24,49
+1594,3,University of Texas at Arlington,299,94,7.19,46,48
+1595,3,University of Texas at Arlington,304,99,5.2,6,35.5
+1596,3,University of Texas at Arlington,301,91,5.3,40,35.5
+1597,3,University of Texas at Arlington,298,91,5.39,3,35.5
+1598,3,University of Texas at Arlington,297,88,5.5,0,35.5
+1599,3,University of Texas at Arlington,310,115,6.65,48,35.5
+1600,3,University of Texas at Arlington,303,81,7,37,35.5
+1601,3,University of Texas at Arlington,307,105,6.9,15,35.5
+1602,3,University of Texas at Arlington,298,105,6.5,5,35.5
+1603,3,University of Texas at Arlington,305,104,6.24,0,35.5
+1604,3,University of Texas at Arlington,310,96,6.368,41,35.5
+1605,3,University of Texas at Arlington,296,86,7.95,19,50
+1606,3,University of Texas at Arlington,313,99,8.52,49,83
+1607,3,University of Texas at Arlington,310,102,5.4,53,35.5
+1608,3,University of Texas at Arlington,299,105,7.3,2,53
+1609,3,University of Texas at Arlington,300,92,6,12,35.5
+1610,3,University of Texas at Arlington,306,99,6.9,0,46
+1611,3,University of Texas at Arlington,304,87,7,32,52
+1612,3,University of Texas at Arlington,298,82,6.22,0,36
+1613,3,University of Texas at Arlington,302,102,5.6,8,35.5
+1614,3,University of Texas at Arlington,310,96,7.3,2,43
+1615,3,University of Texas at Arlington,296,90,5.67,8,35.5
+1616,3,University of Texas at Arlington,294,87,6.444,25,36
+1617,3,University of Texas at Arlington,298,105,5.243,6,35.5
+1618,3,University of Texas at Arlington,304,86,6.3,47,37
+1619,3,University of Texas at Arlington,292,86,6.1,7,39
+1620,3,University of Texas at Arlington,289,106,5.9,9,35.5
+1621,3,University of Texas at Arlington,292,85,6.53,9,35
+1622,3,University of Texas at Arlington,289,98,7.353,24,52
+1623,3,University of Texas at Arlington,291,86,5.5,7,35.5
+1624,3,University of Texas at Arlington,297,69,5.4,12,35.5
+1625,3,University of Texas at Arlington,288,94,7.15,0,49
+1626,3,University of Texas at Arlington,295,95,5.5,23,35.5
+1627,3,University of Texas at Arlington,307,84,6.3,24,36
+1628,3,University of Texas at Arlington,300,96,7,60,49
+1629,3,University of Texas at Arlington,297,79,5.823,0,35.5
+1630,3,University of Texas at Arlington,305,86,7.2,0,47
+1631,3,University of Texas at Arlington,310,92,5.5,0,35.5
+1632,3,University of Texas at Arlington,281,86,6.9,60,39
+1633,3,University of Texas at Arlington,296,86,8.34,0,79
+1634,3,University of Texas at Arlington,296,81,7.37,43,62
+1635,3,University of Texas at Arlington,293,91,5.564,48,35.5
+1636,3,University of Texas at Arlington,305,98,5.7,8,35.5
+1637,4,University of Texas at Austin,322,110,7.7,40,55
+1638,4,University of Texas at Austin,314,96,5.828,40,40
+1639,4,University of Texas at Austin,328,109,5.7,33,46
+1640,4,University of Texas at Austin,319,113,7.34,25,40.75
+1641,4,University of Texas at Austin,314,101,7.351,46,50
+1642,4,University of Texas at Austin,314,100,5.5,0,40
+1643,4,University of Texas at Austin,322,101,5.389,24,40
+1644,4,University of Texas at Austin,320,100,6.3,0,40
+1645,4,University of Texas at Austin,326,114,8.6,36,60
+1646,4,University of Texas at Austin,327,113,8,0,59
+1647,4,University of Texas at Austin,299,106,7.3,0,36
+1648,4,University of Texas at Austin,295,98,6.39,0,36
+1649,4,University of Texas at Austin,330,110,8.32,20,63
+1650,4,University of Texas at Austin,304,108,6.45,0,36
+1651,4,University of Texas at Austin,315,110,8.6,3,40
+1652,4,University of Texas at Austin,318,96,6.2,16,45
+1653,4,University of Texas at Austin,311,98,7,40,45
+1654,4,University of Texas at Austin,320,108,6,41,45
+1655,4,University of Texas at Austin,328,111,7.6,0,45
+1656,4,University of Texas at Austin,311,102,6.9,85,45
+1657,4,University of Texas at Austin,311,100,8.2,0,40
+1658,4,University of Texas at Austin,321,104,6.6,76,45
+1659,4,University of Texas at Austin,309,103,6.91,13,45
+1660,4,University of Texas at Austin,321,104,5.532,39,44
+1661,4,University of Texas at Austin,324,115,7.85,0,45
+1662,4,University of Texas at Austin,314,96,7.18,12,45
+1663,4,University of Texas at Austin,314,112,7.22,20,45
+1664,4,University of Texas at Austin,324,109,7,40,45
+1665,4,University of Texas at Austin,308,106,6.5,84,45
+1666,4,University of Texas at Austin,316,115,9.3,27,53
+1667,4,University of Texas at Austin,323,111,9.7,2,75
+1668,4,University of Texas at Austin,310,104,6.1,52,45
+1669,4,University of Texas at Austin,305,95,8.54,34,40
+1670,4,University of Texas at Austin,329,115,7,144,80
+1671,4,University of Texas at Austin,313,97,7.5,25,40
+1672,4,University of Texas at Austin,314,96,7.1,2,40
+1673,4,University of Texas at Austin,326,113,7.75,6,40
+1674,4,University of Texas at Austin,307,105,7.234,1,40
+1675,4,University of Texas at Austin,311,91,8.44,20,40
+1676,4,University of Texas at Austin,303,95,5.61,27,40
+1677,4,University of Texas at Austin,313,103,6.2,36,40
+1678,4,University of Texas at Austin,327,113,8,30,60
+1679,4,University of Texas at Austin,315,112,8.3,12,60
+1680,4,University of Texas at Austin,302,112,8.5,12,37
+1681,4,University of Texas at Austin,312,114,5.9,22,50
+1682,4,University of Texas at Austin,321,114,7.58,38,60
+1683,4,University of Texas at Austin,324,106,7.49,55,60
+1684,4,University of Texas at Austin,326,99,8.322,12,53
+1685,4,University of Texas at Austin,292,77,6,10,35
+1686,4,University of Texas at Austin,296,100,8.05,48,40
+1687,3,University of Utah,308,106,7.95,18,51
+1688,3,University of Utah,308,101,5.9,21,37
+1689,3,University of Utah,311,102,6.34,27,44
+1690,3,University of Utah,312,96,7.81,44,53
+1691,3,University of Utah,305,87,6.3,60,35.75
+1692,3,University of Utah,305,101,5.568,36,35.75
+1693,3,University of Utah,312,115,6.8,33,44
+1694,3,University of Utah,302,86,6.44,50,45
+1695,3,University of Utah,301,93,7.85,20,50
+1696,3,University of Utah,302,106,5.82,32,35.75
+1697,3,University of Utah,300,99,7.14,39,45
+1698,3,University of Utah,307,97,6.2,48,38
+1699,3,University of Utah,311,98,7.31,25,49
+1700,3,University of Utah,299,97,6.73,48,37
+1701,3,University of Utah,311,102,6.9,85,58
+1702,3,University of Utah,314,99,6,30,42
+1703,3,University of Utah,307,101,8.63,45,79
+1704,3,University of Utah,323,108,7.7,0,69
+1705,3,University of Utah,304,105,7.13,38,47
+1706,3,University of Utah,321,104,6.541,2,45
+1707,3,University of Utah,313,109,7.674,25,53
+1708,3,University of Utah,297,105,8.2,7,65
+1709,3,University of Utah,324,109,6.2,40,58
+1710,3,University of Utah,297,81,5.7,46,35.75
+1711,3,University of Utah,311,102,9.06,11,86
+1712,3,University of Utah,320,108,6,41,59
+1713,3,University of Utah,309,105,6.03,28,43
+1714,3,University of Utah,307,98,7.229,28,48
+1715,3,University of Utah,319,101,6.57,15,46
+1716,3,University of Utah,316,94,5,0,35.75
+1717,3,University of Utah,302,99,6.7,22,36
+1718,3,University of Utah,312,90,8.5,30,73
+1719,3,University of Utah,304,84,6.7,18,39
+1720,3,University of Utah,305,102,7.95,15,50
+1721,3,University of Utah,316,96,7.32,35,55
+1722,3,University of Utah,303,93,7.46,1,48
+1723,3,University of Utah,297,83,6.15,1,35.75
+1724,3,University of Utah,299,89,6.406,33,36
+1725,3,University of Utah,300,97,7.443,58,46
+1726,3,University of Utah,309,96,6,18,36
+1727,3,University of Utah,302,91,5.9,67,35.75
+1728,3,University of Utah,314,100,8.5,15,60
+1729,3,University of Utah,308,100,6.47,38,37
+1730,3,University of Utah,310,99,7.81,21,55
+1731,3,University of Utah,295,92,8.28,26,59
+1732,3,University of Utah,318,113,6.5,0,48
+1733,3,University of Utah,301,99,6.9,36,41
+1734,3,University of Utah,298,96,6.2,58,35.75
+1735,3,University of Utah,305,88,9,40,60
+1736,3,University of Utah,303,104,6.1,36,35.75
+1737,3,University of Utah,297,88,7.6,20,45
+1738,3,University of Utah,306,86,6.73,7,41
+1739,3,University of Utah,321,104,5.532,39,35.75
+1740,3,University of Utah,302,96,6.9,24,36
+1741,3,University of Utah,304,93,7.5,30,46
+1742,4,University of Washington,306,103,5.817,27,35.5
+1743,4,University of Washington,319,111,9.6,6,81
+1744,4,University of Washington,324,113,7.9,15,46
+1745,4,University of Washington,319,101,6.57,15,35.5
+1746,4,University of Washington,319,105,6.8,6,35.5
+1747,4,University of Washington,315,100,6.7,43,35.5
+1748,4,University of Washington,310,106,7.06,42,35.5
+1749,4,University of Washington,306,100,7.3,17,35.5
+1750,4,University of Washington,319,113,6.84,26,35.5
+1751,4,University of Washington,317,103,7.4,60,35.5
+1752,4,University of Washington,321,106,8.16,0,36
+1753,4,University of Washington,315,105,7.4,2,35.5
+1754,4,University of Washington,328,116,9,31,79
+1755,4,University of Washington,322,114,8.97,0,78
+1756,4,University of Washington,317,109,9.18,6,67
+1757,4,University of Washington,327,111,7.85,18,48
+1758,4,University of Washington,324,104,7.5,20,44
+1759,4,University of Washington,323,99,7.24,2,35.5
+1760,4,University of Washington,315,101,9.81,0,66
+1761,4,University of Washington,323,99,7.38,18,35.5
+1762,4,University of Washington,316,97,6.5,31,35.5
+1763,4,University of Washington,317,96,9.586,0,72
+1764,4,University of Washington,316,112,8.48,21,48
+1765,4,University of Washington,321,104,6.541,2,35.5
+1766,4,University of Washington,313,100,7.65,0,35.5
+1767,4,University of Washington,326,111,5.51,42,35.5
+1768,4,University of Washington,329,114,7.2,51,63
+1769,4,University of Washington,332,116,8.77,31,79
+1770,4,University of Washington,324,114,8.3,30,71
+1771,4,University of Washington,320,108,6,41,35.5
+1772,4,University of Washington,330,110,8.4,30,69
+1773,4,University of Washington,307,99,9,36,42
+1774,4,University of Washington,320,103,7.85,52,55.5
+1775,4,University of Washington,313,104,6.174,20,35.5
+1776,4,University of Washington,322,109,8.581,25,53
+1777,4,University of Washington,319,117,8.44,4,49
+1778,4,University of Washington,319,112,7.52,35,35.5
+1779,4,University of Washington,305,109,8.1,25,37
+1780,4,University of Washington,315,102,6.76,19,35.5
+1781,4,University of Washington,314,100,7.1,41,35.5
+1782,4,University of Washington,312,108,6.7,67,35.5
+1783,4,University of Washington,315,109,6.72,29,35.5
+1784,4,University of Washington,319,105,7.61,40,35.5
+1785,4,University of Washington,317,108,8.2,0,48
+1786,4,University of Washington,318,96,6.2,16,35.5
+1787,4,University of Washington,313,104,7.2,19,35.5
+1788,4,University of Washington,316,101,7.6,15,35.5
+1789,4,University of Washington,313,109,7.5,16,35.5
+1790,4,University of Washington,318,118,8.43,30,55.5
+1791,4,University of Washington,312,110,7.62,2,35.5
+1792,4,University of Washington,322,104,8.3,0,48
+1793,4,University of Washington,317,110,6.93,25,35.5
+1794,4,University of Washington,308,98,6,25,35.5
+1795,4,University of Washington,315,112,8.24,1,42
+1796,4,University of Washington,321,114,7.58,38,35.5
+1797,4,University of Washington,303,95,7,20,35.5
+1798,4,University of Washington,319,104,9.39,2,51
+1799,4,University of Washington,325,112,8.56,18,48
+1800,4,University of Washington,320,104,8.2,1,48
+1801,4,University of Washington,312,110,8.6,24,41
+1802,4,University of Washington,320,104,6,60,35.5
+1803,4,University of Washington,306,103,5.817,27,35.5
+1804,4,University of Washington,316,102,7.08,40,35.5
+1805,4,University of Washington,322,107,6.947,28,35.5
+1806,4,University of Washington,318,108,8.33,1,55.5
+1807,4,University of Washington,316,112,6.8,20,35.5
+1808,4,University of Washington,308,101,6.4,48,35.5
+1809,4,University of Washington,326,115,9.38,1,83
+1810,4,University of Washington,316,111,8.64,1,55.5
+1811,4,University of Washington,329,115,7,144,83
+1812,4,University of Washington,324,117,8.49,8,53
+1813,4,University of Washington,325,102,7.34,35,41
+1814,4,University of Washington,318,96,6.85,33,45
+1815,4,University of Washington,309,117,6.5,12,45
+1816,4,University of Washington,326,113,6.35,44,45
+1817,4,University of Washington,322,110,7.66,24,45
+1818,4,University of Washington,307,107,6.4,19,45
+1819,4,University of Washington,315,105,7.42,0,45
+1820,4,University of Washington,322,114,5.9,29,35.5
+1821,4,University of Washington,321,109,5.5,29,35.5
+1822,4,University of Washington,321,112,6.824,32,40
+1823,4,University of Washington,317,114,5.652,36,35.5
+1824,4,University of Washington,304,104,7.33,44,44
+1825,4,University of Washington,319,113,6.84,26,40
+1826,4,University of Washington,325,115,9.12,4,78
+1827,4,University of Washington,329,114,7.2,54,46
+1828,4,University of Washington,318,112,6.5,11,47
+1829,4,University of Washington,311,107,4.7,35,35.5
+1830,4,University of Washington,315,96,6.93,2,35.5
+1831,4,University of Washington,313,107,8.96,0,36
+1832,4,University of Washington,315,112,6,12,35.5
+1833,4,University of Washington,317,96,9.16,20,58
+1834,4,University of Washington,321,112,5.8,60,35.5
+1835,4,University of Washington,317,118,3.14,6,35.5
+1836,4,University of Washington,324,115,7.85,0,55.5
+1837,4,University of Washington,323,111,8,48,47
+1838,4,University of Washington,316,103,8.33,41,48
+1839,4,University of Washington,326,113,7.75,6,55.5
+1840,4,University of Washington,320,110,6.2,40,35.5
+1841,4,University of Washington,318,111,6.68,6,35.5
+1842,4,University of Washington,316,102,7.76,54,55.5
+1843,4,University of Washington,320,102,8.017,0,45
+1844,4,University of Washington,321,112,7.7,0,55.5
+1845,4,University of Washington,306,115,5.8,16,35.5
+1846,4,University of Washington,316,112,7,44,35.5
+1847,4,University of Washington,319,100,5.747,12,35.5
+1848,4,University of Washington,302,102,8.72,52,55.5
+1849,4,University of Washington,322,116,8.1,6,50
+1850,4,University of Washington,309,92,8.56,48,44
+1851,4,University of Washington,316,104,7,24,35.5
+1852,4,University of Washington,317,108,8.8,14,53
+1853,4,University of Washington,312,102,8.01,24,40
+1854,4,University of Washington,314,104,8.05,0,48
+1855,3,Worcester Polytechnic Institute,306,98,6.922,8,47.75
+1856,3,Worcester Polytechnic Institute,309,93,5.1,0,39.25
+1857,3,Worcester Polytechnic Institute,306,86,5.7,4,39.25
+1858,3,Worcester Polytechnic Institute,314,99,6.8,0,60
+1859,3,Worcester Polytechnic Institute,306,94,6.79,12,47.75
+1860,3,Worcester Polytechnic Institute,310,94,6,6,60
+1861,3,Worcester Polytechnic Institute,310,91,5.9,6,55
+1862,3,Worcester Polytechnic Institute,309,95,6.1,30,47.75
+1863,3,Worcester Polytechnic Institute,300,110,7.12,0,60
+1864,3,Worcester Polytechnic Institute,307,97,6.85,30,47.75
+1865,3,Worcester Polytechnic Institute,298,85,5,20,35.75
+1866,3,Worcester Polytechnic Institute,306,100,5,0,39.25
+1867,3,Worcester Polytechnic Institute,300,94,8.1,29,62
+1868,3,Worcester Polytechnic Institute,306,101,6.35,1,47.75
+1869,3,Worcester Polytechnic Institute,301,91,6.3,21,47.75
+1870,3,Worcester Polytechnic Institute,313,109,7.674,25,64
+1871,3,Worcester Polytechnic Institute,296,93,5.93,64,35.75
+1872,3,Worcester Polytechnic Institute,306,115,5.8,16,39.25
+1873,3,Worcester Polytechnic Institute,313,104,6.5,1,59
+1874,3,Worcester Polytechnic Institute,297,99,5.081,24,35.75
+1875,3,Worcester Polytechnic Institute,313,103,8.712,26,80
+1876,3,Worcester Polytechnic Institute,312,96,7.53,1,75
+1877,3,Worcester Polytechnic Institute,303,93,5.91,2,38.75
+1878,3,Worcester Polytechnic Institute,310,104,9.26,38,85
+1879,3,Worcester Polytechnic Institute,305,95,6.2,10,47.75
+1880,3,Worcester Polytechnic Institute,310,107,8,36,79
+1881,3,Worcester Polytechnic Institute,304,102,5.6,26,38.75
+1882,3,Worcester Polytechnic Institute,310,94,4.9,0,39
+1883,3,Worcester Polytechnic Institute,309,95,6.3,23,47.75
+1884,3,Worcester Polytechnic Institute,307,99,7.31,6,59
+1885,3,Worcester Polytechnic Institute,317,109,6.83,2,60
+1886,3,Worcester Polytechnic Institute,299,88,7.95,5,35.75
+1887,3,Worcester Polytechnic Institute,308,99,5.75,56,38.75
+1888,3,Worcester Polytechnic Institute,288,89,5.034,10,35.75
+1889,3,Worcester Polytechnic Institute,302,86,6,28,40
+1890,3,Worcester Polytechnic Institute,311,95,5.6,0,45
+1891,3,Worcester Polytechnic Institute,295,90,5.56,18,35.75
+1892,3,Worcester Polytechnic Institute,307,88,7,0,40
+1893,3,Worcester Polytechnic Institute,301,89,5.76,0,38.75
+1894,3,Worcester Polytechnic Institute,300,93,5,0,38.75
+1895,3,Worcester Polytechnic Institute,308,95,7.2,52,44
+1896,3,Worcester Polytechnic Institute,302,100,6.6,0,46
+1897,3,Worcester Polytechnic Institute,311,98,5.371,30,50
+1898,3,Worcester Polytechnic Institute,306,106,4.5,31,38.75
+1899,3,Worcester Polytechnic Institute,302,89,7,0,40
+1900,3,Worcester Polytechnic Institute,297,98,6.87,32,35.75
+1901,3,Worcester Polytechnic Institute,315,106,5.5,30,50
+1902,3,Worcester Polytechnic Institute,297,97,6.3,87,35.75
