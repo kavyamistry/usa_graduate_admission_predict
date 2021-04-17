@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<!-- <link href="C:\Users\PRINCE\Desktop\NP\GAP\static\css\style.css" rel='stylesheet' type='text/css'> -->
+<!-- <title>POCKET.IN</title> -->
+<!-- <link rel="stylesheet" href="style.css"> -->
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+<section id="nav-bar">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#"><img src="{{url_for('static', filename='os31.png')}}"/></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#top">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#services">University Ratings</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#ap">Admission Prediction</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#guides">Guidelines</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#aboutus">About Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</section>
+
+
+<section id="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <p class="promo-title"> YOUR GATEWAY TO STUDY ABROAD</p>
+        <p>Our Graduation Admit Predictor is an algorithm that works on previous data as well as course requirements. It predicts the percentage chance of you getting an admit from a university’s course.</p>
+<p>We make use of Artificial Intelligence and Machine Learning tools to implement pattern recognition algorithms on historical data to generate a percentage probability of your profile getting an admit from a university for a specified course.</p>
+      </div>
+
+ <div class="col-md-6 text-center">
+   <img src="{{url_for('static', filename='sa2.png')}}" align="middle" class="img-fluid" />
+ </div>
+    </div>
+  </div>
+  <div class="bottom-svg">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,192L48,165.3C96,139,192,85,288,101.3C384,117,480,203,576,197.3C672,192,768,96,864,90.7C960,85,1056,171,1152,186.7C1248,203,1344,149,1392,122.7L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+  </div>
+</section>
+
+
+<section id="services">
+  <div class="container text-center">
+    <h1 class="title">University Ratings</h1>
+    <div class="row">
+      <div class="col-md-3 services">
+        <img src="{{url_for('static', filename='un.png')}}" class="service-img"/>
+        <h4 class="abcd"><b>University Rating-2</b></h4>
+        <ul class="abc">
+        <li>Iowa State University</li>
+        <li>Stevens Institute of Technology</li>
+        <li>University of Cincinnati</li>
+        <li>University of North Carolina at Charlotte</li>
+        </ul>
+      </div>
+      <div class="col-md-3 services">
+        <img src="{{url_for('static', filename='un.png')}}" class="service-img"/>
+        <h4 class="abcd"><b>University Rating-3</b></h4>
+        <ul class="abc">
+          <li>Arizona State University</li>
+          <li>University of Delaware</li>
+          <li>Drexel University</li>
+          <li>University of Arizona</li>
+          <li>Illinois Institute of Technology</li>
+          <li>Indiana University Bloomington</li>
+          <li>Northeastern University</li>
+          <li>Rochester Institute of Technology</li>
+          <li>Rensselaer Polytechnic Institute</li>
+          <li>Rutgers University-New Brunswick</li>
+          <li>Rutgers University, Newark</li>
+          <li>University at Buffalo SUNY</li>
+          <li>Texas A&M University, College Station</li>
+          <li>University of Illinois at Chicago</li>
+          <li>University of Texas at Dallas</li>
+          <li>University of Texas at Arlington</li>
+          <li>University of Utah</li>
+          <li>Worcester Polytechnic Institute</li>
+        </ul>
+      </div>
+      <div class="col-md-3 services">
+        <img src="{{url_for('static', filename='un.png')}}" class="service-img">
+        <h4 class="abcd"><b>University Rating-4</b></h4>
+        <ul class="abc">
+          <li>Boston University</li>
+          <li>University of Minnesota</li>
+          <li>New York University</li>
+          <li>Santa Clara University</li>
+          <li>Pennsylvania State University</li>
+          <li>Syracuse University</li>
+          <li>University of Florida</li>
+          <li>University of Maryland, College Park</li>
+          <li>University of Texas at Austin</li>
+          <li>University of Washington</li>
+        </ul>
+      </div>
+      <div class="col-md-3 services">
+        <img src="{{url_for('static', filename='un.png')}}" class="service-img">
+        <h4 class="abcd"><b>University Rating-5</b></h4>
+        <ul class="abc">
+          <li>Carnegie Mellon University</li>
+          <li>University of California, Irvine</li>
+          <li>University of California, Los Angeles</li>
+          <li>University of Pennsylvania</li>
+        </ul>
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+<section id="ap">
+  <div class="container">
+    <h1 class="title text-center">Admission Prediction</h1>
+        <div class="login">
+        <form action="{{ url_for('predict')}}"method="post">
+          <div class="row">
+        Enter	University Rating: <input type="text" name="University_Rating" placeholder="University_Rating" required="required">
+        </div>
+        <div class="row">
+            Enter GRE Score: <input type="text" name="GRE" placeholder="GRE" required="required" />
+</div>
+            <div class="row">
+    		Enter TOEFL Score: <input type="text" name="TOEFL" placeholder="TOEFL" required="required" />
+</div>
+        <div class="row">
+            Enter CGPA: <input type="text" name="CGPA" placeholder="CGPA" required="required" />
+            </div>
+            <div class="row">
+            Enter Work Experience [In Months]: <input type="text" name="Work_Ex" placeholder="Work_Ex" required="required" />
+</div>
+<br>
+<div class="row">
+  <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+            </div>
+        </form>
+
+       <br>
+       <br>
+       {{ prediction_text }}
+  </div>
+     </div>
+</section>
+
+<section id="guides">
+  <div class="container">
+    <h1 class="title text-center">How To Use?</h1>
+    <div class="row">
+        <ul>
+          <li>First and foremost, you need to enter your academic data like your Gre Score, Toefl Score, CGPA and Work Experience.</li>
+          <li>After that you need to decicde the University from University Ratings list for which you want to predict your chances and enter that particular University's rating as an input.If your preferred university is not listed, one can simply enter the rating according the university's ranking. </li>
+          <li>Here is the table to convert your IELTS Score to TOEFL:</li>
+        </ul>
+        <div class="col-md-6 guides">
+          <img src="{{url_for('static', filename='it.png')}}" class="guides-img"/>
+      </div>
+      <br>
+      <ul>
+        <li>Here you can convert your percentage into CGPA: <a href="https://gdx.in/percentage-to-cgpa-converter"> Click Here</a></li>
+        <br>
+        <li class="xyz">Some important points to note about the admit predictor are:</li>
+        <li>Our admit predictor does not represent a university decision in any way. It is simply a measurement tool for you!</li>
+        <li>Currently, it is only available for the Masters in Computer Science Program for some of the universities in the USA.</li>
+        <li>Our admit predictor is still in its BETA phase. To help improve it, we need to provide it with more data! As the saying goes, a machine learning algorithm can never have too much data!!
+ </li>
+      </ul>
+</div>
+    </div>
+</section>
+
+<section id="aboutus">
+  <div class="container text-center">
+    <h1 class="title text-center">ABOUT US</h1>
+<div class="social-icons">
+  <a href="https://bisag-n.in/"><img src="{{url_for('static', filename='bs.png')}}"/></a>
+</div>
+  </div>
+
+</section>
+
+<section id="footer">
+  <div class="upper-svg">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#f8f9fa" fill-opacity="1" d="M0,64L40,96C80,128,160,192,240,197.3C320,203,400,149,480,117.3C560,85,640,75,720,101.3C800,128,880,192,960,186.7C1040,181,1120,107,1200,96C1280,85,1360,139,1400,165.3L1440,192L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
+<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#f8f9fa" fill-opacity="1" d="M0,160L48,138.7C96,117,192,75,288,69.3C384,64,480,96,576,128C672,160,768,192,864,218.7C960,245,1056,267,1152,272C1248,277,1344,267,1392,261.3L1440,256L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path></svg> -->
+  </div>
+  <!-- <img src="wave3.png" class="footer-img"> -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 footer-box">
+      <img src="{{url_for('static', filename='os31.png')}}"/>
+        <p>Make the best of the only time you are going to be applying to universities. Most people only go through this process once in their lifetime. If done right, your dream university awaits you. </p>
+      </div>
+<div class="col-md-5 footer-boxx ms-auto">
+  <p><b>CONTACT US</b></p>
+  <p><i class="fa fa-map-marker"></i> Near CH '0' Circle, Highway, Indulal Yagnik Marg, Gandhinagar</p>
+<p><i class="fa fa-phone"></i>  079 2321 3091</p>
+<p><i class="fa fa-envelope"></i>  info@bisag.gujarat.gov.in</p>
+  </div>
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<script src="smooth-scroll.js" type ="text/javascript">
+</script>
+<script>
+	var scroll = new SmoothScroll('a[href*="#"]');
+</script>
+ <!-- <div class="login">
+	<h1>Graduate Admission Prediction</h1> -->
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <!-- <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="University_Rating" placeholder="University_Rating" required="required" />
+        <input type="text" name="GRE" placeholder="GRE" required="required" />
+		<input type="text" name="TOEFL" placeholder="TOEFL" required="required" />
+        <input type="text" name="CGPA" placeholder="CGPA" required="required" />
+        <input type="text" name="Work_Ex" placeholder="Work_Ex" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div> -->
+
+
+</body>
+</html>
